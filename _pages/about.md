@@ -24,9 +24,9 @@ Currently, my research has centered on
 
 * **AI Security**: Security, Reliability, Robustness of machine learning or deep learning models.
 
-* **AD Security**: Autonomous Driving (AD) Security, Intelligent Transportation and Vehicle-to-Everything (V2X) Security.
+* **Autonomous Driving (AD) Security**: Autonomous Driving (AD) Security, Intelligent Transportation and Vehicle-to-Everything (V2X) Security.
 
-* **AIGC**: text-to-image generation (T2I), image-to-image generation (I2I), customized & controllable generation
+  <!--**AIGC**: text-to-image generation (T2I), image-to-image generation (I2I), customized & controllable generation-->
 
   <!--**Safety RL**:--> 
 
@@ -56,38 +56,30 @@ I am always looking for related colaboration. If you are interested to chat with
 
 ### Peer-reviewed Conference
 
+<a href="https://doi.org/10.1109/TAI.2022.3190811" target="_blank"><img src="https://img.shields.io/badge/TAI-2023-blue?style=flat-square"></a> Tong Chen, Jiqiang Liu, Baker Thar, <u>Yalun Wu</u>, Yingxiao Xiang, Yike Li, Wenjia Niu, Endong Tong, &quot;**A Mutual Information-Based Assessment of Reverse Engineering on Rewards of Reinforcement Learning**&quot;. In *IEEE Transactions on Artificial Intelligence*. [[pdf](https://doi.org/10.1109/TAI.2022.3190811)]
+
+<a href="https://doi.org/10.1109/TGCN.2022.3162649" target="_blank"><img src="https://img.shields.io/badge/TGCN-2022-blue?style=flat-square"></a> Yike Li, Wenjia Niu, Yunzhe Tian, Tong Chen, Zhiqiang Xie, <u>Yalun Wu</u>, Yingxiao Xiang, Endong Tong, Thar Baker, Jiqiang Liu, &quot;**Multi-Agent Reinforcement Learning-based Signal Planning for Resisting Congestion Attack in Green Transportation**&quot;. In *IEEE Transactions on Green Communications and Networking*. [[pdf](https://doi.org/10.1109/TGCN.2022.3162649)]
+
 <a href="https://link.springer.com/chapter/10.1007/978-3-030-86890-1_21" target="_blank"><img src="https://img.shields.io/badge/ICICS-2021-blue?style=flat-square"></a> <u>Yalun Wu</u>, Minglu Song, Yike Li, Yunzhe Tian, Endong Tong, Wenjia Niu, Bowei Jia, Haixiang Huang, Qiong Li, Jiqiang Liu, &quot;**Improving Convolutional Neural Network-Based Webshell Detection Through Reinforcement Learning**&quot;. In *23rd International Conference on Information and Communications Security (ICICS 2021)*. [[pdf](https://link.springer.com/chapter/10.1007/978-3-030-86890-1_21)]
 
 <a href="https://doi.org/10.1109/HPCC-DSS-SmartCity-DependSys53884.2021.00150" target="_blank"><img src="https://img.shields.io/badge/HPCC-2021-blue?style=flat-square"></a> Shuang Zhao, <u>Yalun Wu</u>, Rui Sun, Xiaoai Qian, Dong Zi, Zhiqiang Xie, Endong Tong, Wenjia Niu, Jiqiang Liu, Zhen Han, &quot;**Blockchain-Based Decentralized Federated Learning: A Secure and Privacy-Preserving System**&quot;. In *IEEE 23rd International Conference on High Performance Computing & Communications (HPCC 2021)*. [[pdf](https://doi.org/10.1109/HPCC-DSS-SmartCity-DependSys53884.2021.00150)]
 
 
 
-
-
 ### Preprints & Under Submission
 
-<a href="https://arxiv.org/abs/2309.01141" target="_blank"><img src="https://img.shields.io/badge/arXiv-2309.01141-B31B1B?style=flat-square"></a> Xuyang Liu†, <u>Siteng Huang</u>†, Yachen Kang, Honggang Chen, Donglin Wang, &quot;**VGDiffZero: Text-to-image Diffusion Models Can Be Zero-shot Visual Grounders**&quot;. *arXiv preprint arXiv:2309.01141*. [[pdf](https://arxiv.org/pdf/2309.01141.pdf)]
 
-<a href="https://arxiv.org/abs/2303.15230" target="_blank"><img src="https://img.shields.io/badge/arXiv-2303.15230-B31B1B?style=flat-square"></a> <u>Siteng Huang</u>, Biao Gong, Yutong Feng, Yiliang Lv, Donglin Wang, &quot;**Troika: Multi-Path Cross-Modal Traction for Compositional Zero-Shot Learning**&quot;. *arXiv preprint arXiv:2303.15230*. [[pdf](https://arxiv.org/pdf/2303.15230.pdf)] [[project page](https://kyonhuang.top/publication/Troika)] [[github](https://github.com/bighuang624/Troika)]
 
-<!-- ## Professional Experience -->
+<!--<a href="https://allenpandas.github.io" target="_blank"><img src="https://img.shields.io/badge/AAAI-2024-red?style=flat-square"></a> <u>Yalun Wu</u>, Yuanwan Chen, Endong Tong, Wenjia Niu, Zhen Han, Jiqiang Liu, &quot;**TEDAug: A Text-driven Augmentation for Pedestrian Detection**&quot;. In *38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024)*.-->
 
-<h2 id='experience'>Experience</h2>
+<h2 id='Projects'>Projects</h2>
 
-* Research Intern - **DAMO Academy, Alibaba Group**
-  * Time: March 2022 - Present.
-  * Fundamental Visual Intelligence Team.
+- **[2023-]** Natural Science Horizontal Project: Semi-Physical Simulation of Autonomous Driving Based on Digital Twins.
+- **[2020-]** National Natural Science Foundation "General Program" Project: Multi-Agent Collaborative Defense Research against Data Poisoning Attacks in Intelligent Traffic Signal Systems.
+- **[2020-2023]** National Key Research and Development Program - Topic: Theory of Trustworthy Construction and Collaborative Decision-Making in Multi-Agent Systems.
+- **[2020-2023]** National Key Research and Development Program - Project: Trustworthy Mechanisms and Key Technologies for Urban Intelligent Systems.
 
-<!-- **Research Intern** | DAMO Academy, Alibaba Group | March 2022 - Present -->
 
-<!-- * March 2022 - Present. *Research Intern*. <a href="https://damo.alibaba.com/" target="_blank">DAMO Academy, Alibaba Group</a>, Hangzhou, China. -->
-
-<!-- <div style="float:left;">Research Intern</div><div style="float:right;">Mar. 2022 - Present</div>
-<div style="float:left;"><a href="https://damo.alibaba.com/" target="_blank">DAMO Academy, Alibaba Group</a></div><div style="float:right;">Hangzhou, China</div> -->
-
-<!-- <div>
-<div style="float:left;">Research Intern<br><a href="https://damo.alibaba.com/" target="_blank">DAMO Academy, Alibaba Group</a></div><div style="float:right;">Mar. 2022 - Present<br>Hangzhou, China</div>
-</div> -->
 
 <h2 id='services'>Services</h2>
 
