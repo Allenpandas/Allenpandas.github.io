@@ -262,6 +262,7 @@ GEM
       unf_ext
     unf_ext (0.0.8.2)
     unicode-display_width (1.8.0)
+    webrick (1.8.1)
 
 PLATFORMS
   x86_64-darwin-21
@@ -269,8 +270,10 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   hawkins
+  jekyll (~> 3.9.3)
   jekyll-feed
   jekyll-sitemap
+  webrick (~> 1.8)
 
 BUNDLED WITH
    2.4.21
