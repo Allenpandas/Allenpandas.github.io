@@ -70,6 +70,8 @@ I am always looking for related colaboration. If you are interested to chat with
 
 <a href="https://allenpandas.github.io" target="_blank"><img src="https://img.shields.io/badge/IEEE Network-2023-red?style=flat-square"></a> <u>Yalun Wu</u>, Yingxiao Xiang, Endong Tong, Yuqi Ye, Zhibo Cui, Yunzhe Tian, Lejun Zhang, Jiqiang Liu, Zhen Han, Wenjia Niu, &quot;**Improving the Robustness of Pedestrian Detection in Autonomous Driving with Generative Data Augmentation**&quot;. In *IEEE Network Magazine (IEEE Network 2023)*.
 
+<a href="https://allenpandas.github.io" target="_blank"><img src="https://img.shields.io/badge/Applied Sciences-2023-red?style=flat-square"></a> <u>Yalun Wu†</u>, Yanfeng Gu†, Yuanwan Chen, Xiaoshu Cui, Qiong Li, Yingxiao Xiang, Endong Tong, Jianhua Li, Zhen Han, Jiqiang Liu, &quot;**Camouﬂage Backdoor Attack against Pedestrian Detection**&quot;. In *IEEE Network Magazine (IEEE Network 2023)*.
+
 <!--<a href="https://allenpandas.github.io" target="_blank"><img src="https://img.shields.io/badge/AAAI-2024-red?style=flat-square"></a> <u>Yalun Wu</u>, Yuanwan Chen, Endong Tong, Wenjia Niu, Zhen Han, Jiqiang Liu, &quot;**TEDAug: A Text-driven Augmentation for Pedestrian Detection**&quot;. In *38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024)*.-->
 
 <h2 id='Projects'>Projects</h2>
