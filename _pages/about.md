@@ -68,7 +68,7 @@ I am always looking for related colaboration. If you are interested to chat with
 
 ### Preprints & Under Submission
 
-
+<a href="https://allenpandas.github.io" target="_blank"><img src="https://img.shields.io/badge/IEEE Network-2023-red?style=flat-square"></a> <u>Yalun Wu</u>, Yingxiao Xiang, Endong Tong, Yuqi Ye, Zhibo Cui, Yunzhe Tian, Lejun Zhang, Jiqiang Liu, Zhen Han, Wenjia Niu, &quot;**Improving the Robustness of Pedestrian Detection in Autonomous Driving with Generative Data Augmentation**&quot;. In *IEEE Network (IEEE Network 2023)*.
 
 <!--<a href="https://allenpandas.github.io" target="_blank"><img src="https://img.shields.io/badge/AAAI-2024-red?style=flat-square"></a> <u>Yalun Wu</u>, Yuanwan Chen, Endong Tong, Wenjia Niu, Zhen Han, Jiqiang Liu, &quot;**TEDAug: A Text-driven Augmentation for Pedestrian Detection**&quot;. In *38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024)*.-->
 
@@ -87,12 +87,3 @@ I am always looking for related colaboration. If you are interested to chat with
 
 * AAAI Conference on Artificial Intelligence [(AAAI'24)](https://aaai.org/conference/aaai/)
 * IEEE Network ([IEEE Network](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=65))
-
-<h2 id='misc'>Misc</h2>
-
-<!--Welcome to follow my [Zhihu](https://www.zhihu.com/people/huang-si-teng-67) account and [Chinese blog](https://kyonhuang.top/blog/).-->
-
-<!-- <div align="middle">
-  <a href="https://milab.westlake.edu.cn/" target="_blank"><img align="middle" style="max-width: 300px; width: 100%; margin-right: 40px; margin-top: 10px" src="https://kyonhuang.top/images/milab_logo.png" /></a>
-  <a href="http://www.zju.edu.cn/" target="_blank"><img align="middle" style="max-width: 160px; width: 100%; margin-left: 20px; margin-top: 10px" src="https://raw.githubusercontent.com/bighuang624/pic-repo/master/color-zju-logo.png" /></a>
-</div> -->
