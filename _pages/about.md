@@ -34,8 +34,8 @@ I am always looking for related colaboration. If you are interested to chat with
 
 <h2 id='news'>News</h2>
 
-* **[Oct 25, 2023]** I am awarded the **Xiaomi Corporation Fellowship** for the 2022-2023 academic year. Thanks, Xiaomi Foundation!
-* **[Sep 4, 2023]** I am Serving as a reviewer for **[AAAI'24](https://aaai.org/aaai-conference/)**.
+* **[Oct 25, 2023]** I was awarded the **Xiaomi Corporation Fellowship** for the 2022-2023 academic year. Thanks, Xiaomi Foundation!
+* **[Sep 4, 2023]** I served as a reviewer for **[AAAI'24](https://aaai.org/aaai-conference/)**.
 * **[Dec 26, 2022]** I was awarded the **Outstanding Part-time Counselor** at Beijing Jiaotong University for the 2022-2023 academic year.
 * **[Jun 15, 2022]**  I obtained a Master's degree in Software Engineering from [Beijing Jiaotong University](https://bjtu.edu.cn/).
 
@@ -59,6 +59,8 @@ I am always looking for related colaboration. If you are interested to chat with
 <a href="https://doi.org/10.1109/TAI.2022.3190811" target="_blank"><img src="https://img.shields.io/badge/TAI-2023-blue?style=flat-square"></a> Tong Chen, Jiqiang Liu, Baker Thar, <u>Yalun Wu</u>, Yingxiao Xiang, Yike Li, Wenjia Niu, Endong Tong, &quot;**A Mutual Information-Based Assessment of Reverse Engineering on Rewards of Reinforcement Learning**&quot;. In *IEEE Transactions on Artificial Intelligence*. [[pdf](https://doi.org/10.1109/TAI.2022.3190811)]
 
 <a href="https://doi.org/10.1109/TGCN.2022.3162649" target="_blank"><img src="https://img.shields.io/badge/TGCN-2022-blue?style=flat-square"></a> Yike Li, Wenjia Niu, Yunzhe Tian, Tong Chen, Zhiqiang Xie, <u>Yalun Wu</u>, Yingxiao Xiang, Endong Tong, Thar Baker, Jiqiang Liu, &quot;**Multi-Agent Reinforcement Learning-based Signal Planning for Resisting Congestion Attack in Green Transportation**&quot;. In *IEEE Transactions on Green Communications and Networking*. [[pdf](https://doi.org/10.1109/TGCN.2022.3162649)]
+
+<a href="https://doi.org/10.26599/TST.2021.9010076" target="_blank"><img src="https://img.shields.io/badge/TST-2022-blue?style=flat-square"></a> Yike Li, Yunzhe Tian, Endong Tong, Wenjia Niu, Yingxiao Xiang, Tong Chen, <u>Yalun Wu</u>, Jiqiang Liu, &quot;**Curricular Robust Reinforcement Learning via GAN-based Perturbation through Continuously Scheduled Task**&quot;. In *Tsinghua Science and Technology*. [[pdf](https://doi.org/10.26599/TST.2021.9010076)]
 
 <a href="https://link.springer.com/chapter/10.1007/978-3-030-86890-1_21" target="_blank"><img src="https://img.shields.io/badge/ICICS-2021-blue?style=flat-square"></a> <u>Yalun Wu</u>, Minglu Song, Yike Li, Yunzhe Tian, Endong Tong, Wenjia Niu, Bowei Jia, Haixiang Huang, Qiong Li, Jiqiang Liu, &quot;**Improving Convolutional Neural Network-Based Webshell Detection Through Reinforcement Learning**&quot;. In *23rd International Conference on Information and Communications Security (ICICS 2021)*. [[pdf](https://link.springer.com/chapter/10.1007/978-3-030-86890-1_21)]
 
