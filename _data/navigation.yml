@@ -8,9 +8,13 @@ main:
 
   # - title: "Experience"
   #   url: \#experience
-
+  - title: "Projects"
+    url: \#Projects
+    
   - title: "Services"
     url: \#services
+
+
 
   # - title: "Projects"
   #   url: /publications/
