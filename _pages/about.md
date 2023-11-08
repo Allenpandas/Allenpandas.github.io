@@ -22,15 +22,13 @@ My main research interest is Autonomous Driving (AD) Security with a focus on th
 
 Currently, my research has centered on
 
-* **Testing and Evaluation**:  testing and evaluation for autonomous driving algorithms, modules, and systems.
+* **Software Testing**:  testing and evaluation for autonomous driving algorithms, modules, and systems.
 
 * **Data Augmentation**: image or video generation, especially focus on generative data augmentation (GDA) in autonomous driving scenarios.
 
-* **Sensor-based Attacks and Defense:** attacks and defense against sensors, such as camera, radar, and lidar.
+* **Autonomous Driving Security**: attacks and defenses against the physical world, sensors, algorithms and automonous driving systems.
 
-  <!--**AIGC**: text-to-image generation (T2I), image-to-image generation (I2I), customized & controllable generation-->
-
-  <!--**Safety RL**:--> 
+* **Reinforcement Learning**: safety reinforcement learning (SRL), robustness reinforcement learning and offline reinforcement learning for autonomous driving systems.
 
 I am always looking for related colaboration. If you are interested to chat with me, feel free to drop me an <a href="mailto:wuyalun1@bjtu.edu.cn" target="_blank">email</a>.
 
@@ -75,8 +73,6 @@ I am always looking for related colaboration. If you are interested to chat with
 <a href="https://allenpandas.github.io" target="_blank"><img src="https://img.shields.io/badge/IEEE Network-2023-red?style=flat-square"></a> <u>Yalun Wu</u>, Yingxiao Xiang, Endong Tong, Yuqi Ye, Zhibo Cui, Yunzhe Tian, Lejun Zhang, Jiqiang Liu, Zhen Han, Wenjia Niu, &quot;**Improving the Robustness of Pedestrian Detection in Autonomous Driving with Generative Data Augmentation**&quot;. In *IEEE Network*.
 
 <a href="https://allenpandas.github.io" target="_blank"><img src="https://img.shields.io/badge/Applied Sciences-2023-red?style=flat-square"></a> <u>Yalun Wu†</u>, Yanfeng Gu†, Yuanwan Chen, Xiaoshu Cui, Qiong Li, Yingxiao Xiang, Endong Tong, Jianhua Li, Zhen Han, Jiqiang Liu, &quot;**Camouﬂage Backdoor Attack against Pedestrian Detection**&quot;. In *Applied Sciences*.
-
-<!--<a href="https://allenpandas.github.io" target="_blank"><img src="https://img.shields.io/badge/AAAI-2024-red?style=flat-square"></a> <u>Yalun Wu</u>, Yuanwan Chen, Endong Tong, Wenjia Niu, Zhen Han, Jiqiang Liu, &quot;**TEDAug: A Text-driven Augmentation for Pedestrian Detection**&quot;. In *38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024)*.-->
 
 ## Projects
 
