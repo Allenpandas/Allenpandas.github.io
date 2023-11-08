@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Yalun Wu (吴亚伦 in Chinese). I am a Ph.D. student  at [Beijing Jiaotong University](https://bjtu.edu.cn/), advised by Prof. [Zhen Han](https://faculty.bjtu.edu.cn/5608/) and [Wenjia Niu](https://faculty.bjtu.edu.cn/9120/). 
+Hi! I am Yalun Wu (吴亚伦 in Chinese). I am a Ph.D. student  at [Beijing Jiaotong University](https://bjtu.edu.cn/), advised by Prof. Zhen Han, Wenjia Niu and Dr. Endong Tong. 
 
 My main research interest is Autonomous Driving (AD) Security with a focus on the security of AI components, e.g., localization, control and perception. More specifically, my research aims at discovering vulnerabilities that can be practically demonstrated in the real world as well as defending against such AI component-level vulnerabilities from the AD system perspective. 
 
@@ -22,9 +22,11 @@ My main research interest is Autonomous Driving (AD) Security with a focus on th
 
 Currently, my research has centered on
 
-* **AI Security**: Security, Reliability, Robustness of machine learning or deep learning models.
+* **Testing and Evaluation**:  testing and evaluation for autonomous driving algorithms, modules, and systems.
 
-* **Autonomous Driving (AD) Security**: Autonomous Driving (AD) Security, Intelligent Transportation and Vehicle-to-Everything (V2X) Security.
+* **Data Augmentation**: image or video generation, especially focus on generative data augmentation (GDA) in autonomous driving scenarios.
+
+* **Sensor-based Attacks and Defense:** attacks and defense against sensors, such as camera, radar, and lidar.
 
   <!--**AIGC**: text-to-image generation (T2I), image-to-image generation (I2I), customized & controllable generation-->
 
@@ -60,7 +62,7 @@ I am always looking for related colaboration. If you are interested to chat with
 
 <a href="https://doi.org/10.1109/TGCN.2022.3162649" target="_blank"><img src="https://img.shields.io/badge/TGCN-2022-blue?style=flat-square"></a> Yike Li, Wenjia Niu, Yunzhe Tian, Tong Chen, Zhiqiang Xie, <u>Yalun Wu</u>, Yingxiao Xiang, Endong Tong, Thar Baker, Jiqiang Liu, &quot;**Multi-Agent Reinforcement Learning-based Signal Planning for Resisting Congestion Attack in Green Transportation**&quot;. In *IEEE Transactions on Green Communications and Networking*. [[pdf](https://doi.org/10.1109/TGCN.2022.3162649)]
 
-<a href="https://doi.org/10.26599/TST.2021.9010076" target="_blank"><img src="https://img.shields.io/badge/TST-2022-blue?style=flat-square"></a> Yike Li, Yunzhe Tian, Endong Tong, Wenjia Niu, Yingxiao Xiang, Tong Chen, <u>Yalun Wu</u>, Jiqiang Liu, &quot;**Curricular Robust Reinforcement Learning via GAN-based Perturbation through Continuously Scheduled Task**&quot;. In *Tsinghua Science and Technology*. [[pdf](https://doi.org/10.26599/TST.2021.9010076)]
+<a href="https://doi.org/10.26599/TST.2021.9010076" target="_blank"><img src="https://img.shields.io/badge/TST-2022-blue?style=flat-square"></a> Yike Li, Yunzhe Tian, Endong Tong, Wenjia Niu, Yingxiao Xiang, Tong Chen, <u>Yalun Wu</u>, Jiqiang Liu, &quot;**Curricular Robust Reinforcement Learning via GAN-based Perturbation through Continuously Scheduled Task**&quot;. In *Tsinghua Science and Technology* . [[pdf](https://doi.org/10.26599/TST.2021.9010076)]
 
 <a href="https://link.springer.com/chapter/10.1007/978-3-030-86890-1_21" target="_blank"><img src="https://img.shields.io/badge/ICICS-2021-blue?style=flat-square"></a> <u>Yalun Wu</u>, Minglu Song, Yike Li, Yunzhe Tian, Endong Tong, Wenjia Niu, Bowei Jia, Haixiang Huang, Qiong Li, Jiqiang Liu, &quot;**Improving Convolutional Neural Network-Based Webshell Detection Through Reinforcement Learning**&quot;. In *23rd International Conference on Information and Communications Security (ICICS 2021)*. [[pdf](https://link.springer.com/chapter/10.1007/978-3-030-86890-1_21)]
 
@@ -70,9 +72,9 @@ I am always looking for related colaboration. If you are interested to chat with
 
 ### Preprints & Under Submission
 
-<a href="https://allenpandas.github.io" target="_blank"><img src="https://img.shields.io/badge/IEEE Network-2023-red?style=flat-square"></a> <u>Yalun Wu</u>, Yingxiao Xiang, Endong Tong, Yuqi Ye, Zhibo Cui, Yunzhe Tian, Lejun Zhang, Jiqiang Liu, Zhen Han, Wenjia Niu, &quot;**Improving the Robustness of Pedestrian Detection in Autonomous Driving with Generative Data Augmentation**&quot;. In *IEEE Network Magazine (IEEE Network 2023)*.
+<a href="https://allenpandas.github.io" target="_blank"><img src="https://img.shields.io/badge/IEEE Network-2023-red?style=flat-square"></a> <u>Yalun Wu</u>, Yingxiao Xiang, Endong Tong, Yuqi Ye, Zhibo Cui, Yunzhe Tian, Lejun Zhang, Jiqiang Liu, Zhen Han, Wenjia Niu, &quot;**Improving the Robustness of Pedestrian Detection in Autonomous Driving with Generative Data Augmentation**&quot;. In *IEEE Network*.
 
-<a href="https://allenpandas.github.io" target="_blank"><img src="https://img.shields.io/badge/Applied Sciences-2023-red?style=flat-square"></a> <u>Yalun Wu†</u>, Yanfeng Gu†, Yuanwan Chen, Xiaoshu Cui, Qiong Li, Yingxiao Xiang, Endong Tong, Jianhua Li, Zhen Han, Jiqiang Liu, &quot;**Camouﬂage Backdoor Attack against Pedestrian Detection**&quot;. In *Applied Sciences-Basel (Applied Sciences-Basel 2023)*.
+<a href="https://allenpandas.github.io" target="_blank"><img src="https://img.shields.io/badge/Applied Sciences-2023-red?style=flat-square"></a> <u>Yalun Wu†</u>, Yanfeng Gu†, Yuanwan Chen, Xiaoshu Cui, Qiong Li, Yingxiao Xiang, Endong Tong, Jianhua Li, Zhen Han, Jiqiang Liu, &quot;**Camouﬂage Backdoor Attack against Pedestrian Detection**&quot;. In *Applied Sciences*.
 
 <!--<a href="https://allenpandas.github.io" target="_blank"><img src="https://img.shields.io/badge/AAAI-2024-red?style=flat-square"></a> <u>Yalun Wu</u>, Yuanwan Chen, Endong Tong, Wenjia Niu, Zhen Han, Jiqiang Liu, &quot;**TEDAug: A Text-driven Augmentation for Pedestrian Detection**&quot;. In *38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024)*.-->
 
