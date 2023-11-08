@@ -18,7 +18,7 @@ My main research interest is Autonomous Driving (AD) Security with a focus on th
 
 <span style="color:red;">I am <b>seeking exciting industry opportunities for both research and applications after Ph.D. graduation (June 2026)</b>. Please feel free to drop me an <a href="mailto:wuyalun1@bjtu.edu.cn" target="_blank">email</a> if you are interested!</span>
 
-<h2 id='research-interests'>Research Interests</h2>
+## Research Interests
 
 Currently, my research has centered on
 
@@ -34,7 +34,7 @@ Currently, my research has centered on
 
 I am always looking for related colaboration. If you are interested to chat with me, feel free to drop me an <a href="mailto:wuyalun1@bjtu.edu.cn" target="_blank">email</a>.
 
-<h2 id='news'>News</h2>
+## News
 
 * **[Oct 25, 2023]** I was awarded the **Xiaomi Corporation Fellowship** for the 2022-2023 academic year. Thanks, Xiaomi Foundation!
 * **[Sep 4, 2023]** I served as a reviewer for **[AAAI'24](https://aaai.org/aaai-conference/)**.
@@ -52,7 +52,7 @@ I am always looking for related colaboration. If you are interested to chat with
 <!-- **Hiring**: We are looking for **postdoctors, research assistants and visiting students for MiLAB in Westlake University** (currently only for Chinese). More information about requirements can be found [here](https://milab.westlake.edu.cn/contact.html), and if you are still in school, being a visiting student is also welcome. Please send email to `mi_lab[AT]westlake.edu.cn` with your CV if you are interested. Specially, if you are interested in my research direction and would like to be my collaborator after coming, please specify in the email and also send a copy to me.
 {: .notice--info} -->
 
-<h2 id='publications'>Publications</h2>
+## Publications
 
 †: Equal contribution
 
@@ -78,16 +78,14 @@ I am always looking for related colaboration. If you are interested to chat with
 
 <!--<a href="https://allenpandas.github.io" target="_blank"><img src="https://img.shields.io/badge/AAAI-2024-red?style=flat-square"></a> <u>Yalun Wu</u>, Yuanwan Chen, Endong Tong, Wenjia Niu, Zhen Han, Jiqiang Liu, &quot;**TEDAug: A Text-driven Augmentation for Pedestrian Detection**&quot;. In *38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024)*.-->
 
-<h2 id='Projects'>Projects</h2>
+## Projects
 
 - **[2023-]** Natural Science Horizontal Project: Semi-Physical Simulation of Autonomous Driving Based on Digital Twins.
 - **[2020-]** National Natural Science Foundation "General Program" Project: Multi-Agent Collaborative Defense Research against Data Poisoning Attacks in Intelligent Traffic Signal Systems.
 - **[2020-2023]** National Key Research and Development Program - Topic: Theory of Trustworthy Construction and Collaborative Decision-Making in Multi-Agent Systems.
 - **[2020-2023]** National Key Research and Development Program - Project: Trustworthy Mechanisms and Key Technologies for Urban Intelligent Systems.
 
-
-
-<h2 id='services'>Services</h2>
+## Services
 
 ### Conference and Journal Reviewer
 
