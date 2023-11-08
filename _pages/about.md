@@ -22,7 +22,7 @@ My main research interest is Autonomous Driving (AD) Security with a focus on th
 
 Currently, my research has centered on
 
-* **Software Testing**:  testing and evaluation for autonomous driving algorithms, modules, and systems.
+* **Safety Testing**:  testing and evaluation for autonomous driving algorithms, modules, and systems.
 
 * **Data Augmentation**: image or video generation, especially focus on generative data augmentation (GDA) in autonomous driving scenarios.
 
