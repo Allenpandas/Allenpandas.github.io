@@ -58,6 +58,8 @@ I am always looking for related colaboration. If you are interested to chat with
 
 ### Peer-reviewed Conference
 
+<a href="https://allenpandas.github.io" target="_blank"><img src="https://img.shields.io/badge/Applied Sciences-2023-blue?style=flat-square"></a> <u>Yalun Wu†</u>, Yanfeng Gu†, Yuanwan Chen, Xiaoshu Cui, Qiong Li, Yingxiao Xiang, Endong Tong, Jianhua Li, Zhen Han, Jiqiang Liu, &quot;**Camouﬂage Backdoor Attack against Pedestrian Detection**&quot;. In *Applied Sciences*.
+
 <a href="https://doi.org/10.1109/TAI.2022.3190811" target="_blank"><img src="https://img.shields.io/badge/TAI-2023-blue?style=flat-square"></a> Tong Chen, Jiqiang Liu, Baker Thar, <u>Yalun Wu</u>, Yingxiao Xiang, Yike Li, Wenjia Niu, Endong Tong, &quot;**A Mutual Information-Based Assessment of Reverse Engineering on Rewards of Reinforcement Learning**&quot;. In *IEEE Transactions on Artificial Intelligence*. [[pdf](https://doi.org/10.1109/TAI.2022.3190811)]
 
 <a href="https://doi.org/10.1109/TGCN.2022.3162649" target="_blank"><img src="https://img.shields.io/badge/TGCN-2022-blue?style=flat-square"></a> Yike Li, Wenjia Niu, Yunzhe Tian, Tong Chen, Zhiqiang Xie, <u>Yalun Wu</u>, Yingxiao Xiang, Endong Tong, Thar Baker, Jiqiang Liu, &quot;**Multi-Agent Reinforcement Learning-based Signal Planning for Resisting Congestion Attack in Green Transportation**&quot;. In *IEEE Transactions on Green Communications and Networking*. [[pdf](https://doi.org/10.1109/TGCN.2022.3162649)]
@@ -68,13 +70,9 @@ I am always looking for related colaboration. If you are interested to chat with
 
 <a href="https://doi.org/10.1109/HPCC-DSS-SmartCity-DependSys53884.2021.00150" target="_blank"><img src="https://img.shields.io/badge/HPCC-2021-blue?style=flat-square"></a> Shuang Zhao, <u>Yalun Wu</u>, Rui Sun, Xiaoai Qian, Dong Zi, Zhiqiang Xie, Endong Tong, Wenjia Niu, Jiqiang Liu, Zhen Han, &quot;**Blockchain-Based Decentralized Federated Learning: A Secure and Privacy-Preserving System**&quot;. In *IEEE 23rd International Conference on High Performance Computing & Communications (HPCC 2021)*. [[pdf](https://doi.org/10.1109/HPCC-DSS-SmartCity-DependSys53884.2021.00150)]
 
-
-
 ### Preprints & Under Submission
 
 <a href="https://allenpandas.github.io" target="_blank"><img src="https://img.shields.io/badge/IEEE Network-2023-red?style=flat-square"></a> <u>Yalun Wu</u>, Yingxiao Xiang, Endong Tong, Yuqi Ye, Zhibo Cui, Yunzhe Tian, Lejun Zhang, Jiqiang Liu, Zhen Han, Wenjia Niu, &quot;**Improving the Robustness of Pedestrian Detection in Autonomous Driving with Generative Data Augmentation**&quot;. In *IEEE Network*.
-
-<a href="https://allenpandas.github.io" target="_blank"><img src="https://img.shields.io/badge/Applied Sciences-2023-red?style=flat-square"></a> <u>Yalun Wu†</u>, Yanfeng Gu†, Yuanwan Chen, Xiaoshu Cui, Qiong Li, Yingxiao Xiang, Endong Tong, Jianhua Li, Zhen Han, Jiqiang Liu, &quot;**Camouﬂage Backdoor Attack against Pedestrian Detection**&quot;. In *Applied Sciences*.
 
 ## Projects
 
