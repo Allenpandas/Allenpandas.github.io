@@ -36,7 +36,6 @@ I am always looking for related colaboration. If you are interested to chat with
 
 - **[Nov 1, 2023]** I led our class to win the Beijing Advanced Class Collective Award and Beijing Jiaotong University Advanced Class Collective Award.
 
-* **[Oct 25, 2023]** I was awarded the **Xiaomi Corporation Fellowship** for the 2022-2023 academic year. Thanks, Xiaomi Foundation!
 * **[Sep 4, 2023]** I served as a reviewer for **[AAAI'24](https://aaai.org/aaai-conference/)**.
 * **[Dec 26, 2022]** I was awarded the **Outstanding Part-time Counselor** at Beijing Jiaotong University for the 2022-2023 academic year.
 * **[Jun 15, 2022]**  I obtained a Master's degree in Software Engineering from [Beijing Jiaotong University](https://bjtu.edu.cn/).
