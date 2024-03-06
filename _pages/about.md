@@ -1,92 +1,58 @@
 ---
 permalink: /
-title: "Yalun Wu 吴亚伦"
-excerpt: "Yalun Wu 吴亚伦"
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hi! I am Yalun Wu (吴亚伦 in Chinese). I am a Ph.D. student  at [Beijing Jiaotong University](https://bjtu.edu.cn/), advised by Prof. Zhen Han, Wenjia Niu and Dr. Endong Tong. 
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-My main research interest is Autonomous Driving (AD) Security with a focus on the security of AI components, e.g., localization, control and perception. More specifically, my research aims at discovering vulnerabilities that can be practically demonstrated in the real world as well as defending against such AI component-level vulnerabilities from the AD system perspective. 
+<span class='anchor' id='about-me'></span>
 
-<!--.Prior to my Ph.D. career, I graduated with a M.S. from Beijing Jiaotong University, advised by Dr. [Endong Tong](http://faculty.bjtu.edu.cn/9306/).-->
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
 
-
-
-<span style="color:red;">I am <b>seeking exciting industry opportunities for both research and applications after Ph.D. graduation (June 2026)</b>. Please feel free to drop me an <a href="mailto:wuyalun1@bjtu.edu.cn" target="_blank">email</a> if you are interested!</span>
-
-## Research Interests
-
-Currently, my research has centered on
-
-* **Safety Testing**:  testing and evaluation for autonomous driving algorithms, modules, and systems.
-
-* **Data Augmentation**: image or video generation, especially focus on generative data augmentation (GDA) in autonomous driving scenarios.
-
-* **Autonomous Driving Security**: attacks and defenses against the physical world, sensors, algorithms and automonous driving systems.
-
-* **Reinforcement Learning**: safety reinforcement learning (SRL), robustness reinforcement learning and offline reinforcement learning for autonomous driving systems.
-
-I am always looking for related colaboration. If you are interested to chat with me, feel free to drop me an <a href="mailto:wuyalun1@bjtu.edu.cn" target="_blank">email</a>.
-
-## News
-
-- **[Nov 1, 2023]** I led our class to win the Beijing Advanced Class Collective Award and Beijing Jiaotong University Advanced Class Collective Award.
-
-* **[Sep 4, 2023]** I served as a reviewer for **[AAAI'24](https://aaai.org/aaai-conference/)**.
-* **[Dec 26, 2022]** I was awarded the **Outstanding Part-time Counselor** at Beijing Jiaotong University for the 2022-2023 academic year.
-* **[Jun 15, 2022]**  I obtained a Master's degree in Software Engineering from [Beijing Jiaotong University](https://bjtu.edu.cn/).
+My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
+# 🔥 News
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-<!-- **Service**: Always open to paper review, talk and organizing opportunities. Feel free to reach out to me if you are interested. -->
-<!-- {: .notice--info} -->
+# 📝 Publications 
 
-<!-- Always open to research interns, cooperation and review opportunities. Feel free to reach out to me if you are interested. My email address is `huangsiteng [at] westlake.edu.cn`.
-{: .notice--info} -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-<!-- **Hiring**: We are looking for **postdoctors, research assistants and visiting students for MiLAB in Westlake University** (currently only for Chinese). More information about requirements can be found [here](https://milab.westlake.edu.cn/contact.html), and if you are still in school, being a visiting student is also welcome. Please send email to `mi_lab[AT]westlake.edu.cn` with your CV if you are interested. Specially, if you are interested in my research direction and would like to be my collaborator after coming, please specify in the email and also send a copy to me.
-{: .notice--info} -->
+[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-## Publications
+**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
-†: Equal contribution
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
 
-### Peer-reviewed Conference
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-<a href="https://allenpandas.github.io" target="_blank"><img src="https://img.shields.io/badge/IEEE Network-2023-blue?style=flat-square"></a> <u>Yalun Wu</u>, Yingxiao Xiang, Endong Tong, Yuqi Ye, Zhibo Cui, Yunzhe Tian, Lejun Zhang, Jiqiang Liu, Zhen Han, Wenjia Niu, &quot;**Improving the Robustness of Pedestrian Detection in Autonomous Driving with Generative Data Augmentation**&quot;. In *IEEE Network (JCR Q1)*.
+# 🎖 Honors and Awards
+- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-<a href="https://allenpandas.github.io" target="_blank"><img src="https://img.shields.io/badge/Applied Sciences-2023-blue?style=flat-square"></a> <u>Yalun Wu†</u>, Yanfeng Gu†, Yuanwan Chen, Xiaoshu Cui, Qiong Li, Yingxiao Xiang, Endong Tong, Jianhua Li, Zhen Han, Jiqiang Liu, &quot;**Camouﬂage Backdoor Attack against Pedestrian Detection**&quot;. In *Applied Sciences (JCR Q2)*.
+# 📖 Educations
+- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-<a href="https://doi.org/10.1109/TAI.2022.3190811" target="_blank"><img src="https://img.shields.io/badge/TAI-2023-blue?style=flat-square"></a> Tong Chen, Jiqiang Liu, Baker Thar, <u>Yalun Wu</u>, Yingxiao Xiang, Yike Li, Wenjia Niu, Endong Tong, &quot;**A Mutual Information-Based Assessment of Reverse Engineering on Rewards of Reinforcement Learning**&quot;. In *IEEE Transactions on Artificial Intelligence*. [[pdf](https://doi.org/10.1109/TAI.2022.3190811)]
+# 💬 Invited Talks
+- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-<a href="https://doi.org/10.1109/TGCN.2022.3162649" target="_blank"><img src="https://img.shields.io/badge/TGCN-2022-blue?style=flat-square"></a> Yike Li, Wenjia Niu, Yunzhe Tian, Tong Chen, Zhiqiang Xie, <u>Yalun Wu</u>, Yingxiao Xiang, Endong Tong, Thar Baker, Jiqiang Liu, &quot;**Multi-Agent Reinforcement Learning-based Signal Planning for Resisting Congestion Attack in Green Transportation**&quot;. In *IEEE Transactions on Green Communications and Networking  (JCR Q2)*. [[pdf](https://doi.org/10.1109/TGCN.2022.3162649)]
-
-<a href="https://doi.org/10.26599/TST.2021.9010076" target="_blank"><img src="https://img.shields.io/badge/TST-2022-blue?style=flat-square"></a> Yike Li, Yunzhe Tian, Endong Tong, Wenjia Niu, Yingxiao Xiang, Tong Chen, <u>Yalun Wu</u>, Jiqiang Liu, &quot;**Curricular Robust Reinforcement Learning via GAN-based Perturbation through Continuously Scheduled Task**&quot;. In *Tsinghua Science and Technology (JCR Q1)*. [[pdf](https://doi.org/10.26599/TST.2021.9010076)]
-
-<a href="https://link.springer.com/chapter/10.1007/978-3-030-86890-1_21" target="_blank"><img src="https://img.shields.io/badge/ICICS-2021-blue?style=flat-square"></a> <u>Yalun Wu</u>, Minglu Song, Yike Li, Yunzhe Tian, Endong Tong, Wenjia Niu, Bowei Jia, Haixiang Huang, Qiong Li, Jiqiang Liu, &quot;**Improving Convolutional Neural Network-Based Webshell Detection Through Reinforcement Learning**&quot;. In *23rd International Conference on Information and Communications Security (ICICS 2021, CCF-C)*. [[pdf](https://link.springer.com/chapter/10.1007/978-3-030-86890-1_21)]
-
-<a href="https://doi.org/10.1109/HPCC-DSS-SmartCity-DependSys53884.2021.00150" target="_blank"><img src="https://img.shields.io/badge/HPCC-2021-blue?style=flat-square"></a> Shuang Zhao, <u>Yalun Wu</u>, Rui Sun, Xiaoai Qian, Dong Zi, Zhiqiang Xie, Endong Tong, Wenjia Niu, Jiqiang Liu, Zhen Han, &quot;**Blockchain-Based Decentralized Federated Learning: A Secure and Privacy-Preserving System**&quot;. In *IEEE 23rd International Conference on High Performance Computing & Communications (HPCC 2021, CCF-C)*. [[pdf](https://doi.org/10.1109/HPCC-DSS-SmartCity-DependSys53884.2021.00150)]
-
-### Preprints & Under Submission
-
-<a href="https://allenpandas.github.io" target="_blank"><img src="https://img.shields.io/badge/TDSC-2023-red?style=flat-square"></a> Yike Li, Jiayin Song, Yunzhe Tian, Endong Tong, Yuling Liu, Guozhu Meng, <u>Yalun Wu</u>, jianhua Li, Wenjia Niu, jiqiang Liu. **"Towards Preventing Imitation Learning Attack via Policy Confusion Defense"** . In *Transactions on Dependable and Secure Computing (JCR Q1)*.
-
-
-
-## Projects
-
-- **[2023-]** Natural Science Horizontal Project: Semi-Physical Simulation of Autonomous Driving Based on Digital Twins.
-- **[2020-]** National Natural Science Foundation "General Program" Project: Multi-Agent Collaborative Defense Research against Data Poisoning Attacks in Intelligent Traffic Signal Systems.
-- **[2020-2023]** National Key Research and Development Program - Topic: Theory of Trustworthy Construction and Collaborative Decision-Making in Multi-Agent Systems.
-- **[2020-2023]** National Key Research and Development Program - Project: Trustworthy Mechanisms and Key Technologies for Urban Intelligent Systems.
-
-## Services
-
-### Conference and Journal Reviewer
-
-* AAAI Conference on Artificial Intelligence [(AAAI'24)](https://aaai.org/conference/aaai/)
-* IEEE Network ([IEEE Network](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=65))
+# 💻 Internships
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
