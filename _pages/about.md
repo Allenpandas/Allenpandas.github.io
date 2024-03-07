@@ -57,9 +57,9 @@ I am always looking for related colaboration. If you are interested to chat with
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-- Yike Li, Jiayin Song, Yunzhe Tian, Endong Tong, Yuling Liu, Guozhu Meng, **Yalun Wu**, jianhua Li, Wenjia Niu, jiqiang Liu. "Towards Preventing Imitation Learning Attack via Policy Confusion Defense" . In *Transactions on Dependable and Secure Computing (JCR Q1)*.
+- **Yalun Wu**, Yingxiao Xiang, Endong Tong, Yuqi Ye, Zhibo Cui, Yunzhe Tian, Lejun Zhang, Jiqiang Liu, Zhen Han. Wenjia Niu: Improving the Robustness of Pedestrian Detection in Autonomous Driving with Generative Data Augmentation, in ***IEEE Network***. 2024 (early access). [JCR Q1, IF: 9.3] [[pdf](https://ieeexplore.ieee.org/document/10438990)]
 
-
+- **Yalun Wu**, Minglu Song, Yike Li, Yunzhe Tian, Endong Tong, Wenjia Niu, Bowei Jia, Haixiang Huang, Qiong Li, Jiqiang Liu: Improving Convolutional Neural Network-Based Webshell Detection Through Reinforcement Learning. ICICS 2021: 368-383. [<font color="red">*ccf-c conference, EI Index*</font>] [[pdf](https://link.springer.com/chapter/10.1007/978-3-030-86890-1_21)] [[BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:XukdJ8yOvW8J:scholar.google.com/&output=citation&scisdr=ClGW_-qMELbJn0dM3NE:AFWwaeYAAAAAZelKxNHmJuBJd1ljDHCvHXGtpQs&scisig=AFWwaeYAAAAAZelKxFROWDgrFKjwGZIqj6-ZxwU&scisf=4&ct=citation&cd=-1&hl=zh-CN)]
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -71,12 +71,13 @@ I am always looking for related colaboration. If you are interested to chat with
 - *2013.09 - 2017.06*, B.S., School of Information Science, Qingdao Agricultural University
 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
 
 <!--
+
+# 💬 Invited Talks
+
+- *2021.11*, 
+
 # 💻 Internships
 
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
