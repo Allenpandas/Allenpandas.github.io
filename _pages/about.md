@@ -40,7 +40,7 @@ I am always looking for related colaboration. If you are interested to chat with
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📝 Publications 
+# 📝 Publications
 
 1. **Yalun Wu**, Yingxiao Xiang, Endong Tong, Yuqi Ye, Zhibo Cui, Yunzhe Tian, Lejun Zhang, Jiqiang Liu, Zhen Han. Wenjia Niu. Improving the Robustness of Pedestrian Detection in Autonomous Driving with Generative Data Augmentation. In ***IEEE Network***, 2024 (early access). [JCR Q1, IF: 9.3] [[pdf](https://ieeexplore.ieee.org/document/10438990)]
 2. **Yalun Wu**, Yanfeng Gu, Yuanwan Chen, Xiaoshu Cui, Qiong Li, Yingxiao Xiang, Endong Tong, Jianhua Li, Zhen Han, Jiqiang Liu. Camouflage Backdoor Attack against Pedestrian Detection. In ***Applied Sciences***, 2023, 13(23):12752. [JCR Q2] [[pdf](https://www.mdpi.com/2076-3417/13/23/12752)] [[BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:BHVw8RdzTtIJ:scholar.google.com/&output=citation&scisdr=ClGW_-qMELbJn0daI5U:AFWwaeYAAAAAZelcO5Vnbvb7x95AYyl_cu2W_SE&scisig=AFWwaeYAAAAAZelcO5I1Dq5SVUXQfK98-59Xrnk&scisf=4&ct=citation&cd=-1&hl=zh-CN)]
@@ -56,7 +56,16 @@ I am always looking for related colaboration. If you are interested to chat with
 12. Yike Li, Yunzhe Tian, Endong Tong, Wenjia Niu, Yingxiao Xiang, Tong Chen, **Yalun Wu** and Jiqiang Liu. Curricular Robust Reinforcement Learning via GAN-based Perturbation through Continuously Scheduled Task. In ***Chinese Conference on Trusted Computing and Information Security (CTCIS)***, 2021. [EI Index] [[pdf](https://ieeexplore.ieee.org/abstract/document/9837021/)] [[BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:EQ6NY2ucFoYJ:scholar.google.com/&output=citation&scisdr=ClGW_-qHELbJn0eSbKI:AFWwaeYAAAAAZemUdKKUDsy2-Ui4CKNqrsfFHqs&scisig=AFWwaeYAAAAAZemUdJ4ZBoRvUPOut9godkK_tYU&scisf=4&ct=citation&cd=-1&hl=zh-CN)]
 13. Yingxiao Xiang, Tong Chen, Yike Li, Yunzhe Tian, Wenjia Niu, Endong Tong, Jiqiang Liu, Bowei Jia, **Yalun Wu**, Xinyu Huang. Predicting Congestion Attack of Variable Spoofing Frequency for Reliable Traffic Signal System. In ***International Conference on Security and Privacy in New Computing Environments (EAI-SPNCE)***, 2021. [EI Index] [[pdf](https://link.springer.com/chapter/10.1007/978-3-030-96791-8_16)] [[BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:Azpl8Vpd6O8J:scholar.google.com/&output=citation&scisdr=ClGW_-qHELbJn0eSTck:AFWwaeYAAAAAZemUVckYBtyFR5xvZm4hSE4iHvc&scisig=AFWwaeYAAAAAZemUVQ6qIBtrrWIIBWdDmY7xvAY&scisf=4&ct=citation&cd=-1&hl=zh-CN)]
 
+# 🔍 Patents
+
+- **Yalun Wu**, Xiaoshu Cui, Yuanwan Chen, Qiong Li, Yanfeng Gu, Yingqi Cai, Zhen Han, Jiqiang Liu, Endong Tong, Wenjia Niu. A text-driven data augmentation method. Chinese patent, 2024.
+- Pengna Liu, Ziyan Qiao, **Yalun Wu**, Yuanwan Chen, Xiaoshu Cui, Yanfeng Gu, Jingqi Jia, Qiong Li, Endong Tong, Wenjia Niu. A rapid region reuse method for multi-point asynchronous attacks. Chinese patent, 2024.
+- Ziyan Qiao, Yuanwan Chen, Pengna Liu, Yanfeng Gu, Xiaoshu Cui, Yalun Wu, Qiong Li, Endong Tong, Wenjia Niu. A multi-agent cooperative reinforcement learning method based on bidirectional model transfer. Chinese patent, 2024.
+- Dianjing Cheng, Yunzhe Tian, Xiyi Lu, Kang Chen, Dongyue Xu, **Yalun Wu**, Xingyu Wu, Yike Li, Qiong Li, Endong Tong, Wenjia Niu, Jiqiang Liu. A method and apparatus for constructing a multi-task classifier combining pre-training and supervised fine-tuning. Chinese patent, 2024.
+- Kang Chen, Yunzhe Tian, Dongyue Xu, **Yalun Wu**, Xingyu Wu, Yike Li, Endong Tong, Wenjia Niu. A method for identifying modulation styles and technical systems of wireless signals. Chinese patent, 2023.
+
 # 🎖 Honors and Awards
+
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
