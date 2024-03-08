@@ -17,9 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am Yalun Wu (吴亚伦 in Chinese). I am a Ph.D. student  at [Beijing Jiaotong University](https://bjtu.edu.cn/), advised by Prof. Zhen Han, Wenjia Niu and Dr. Endong Tong. 
+Yalun Wu received the bachelor's degree in communication engineering from Qingdao Agricultural University in 2017 and the master's degree in software engineering from Beijing Jiaotong University in 2022. He is currently pursuing the PhD in Cybersecurity at Beijing Jiaotong University. His research interests include AI security, data security, and privacy protection.
 
-My main research interest is Autonomous Driving (AD) Security with a focus on the security of AI components, e.g., localization, control and perception. More specifically, my research aims at discovering vulnerabilities that can be practically demonstrated in the real world as well as defending against such AI component-level vulnerabilities from the AD system perspective. 
+
+
+<!--Hi! I am Yalun Wu (吴亚伦 in Chinese). I am a Ph.D. student at [Beijing Jiaotong University](https://bjtu.edu.cn/), advised by Prof. Zhen Han, Wenjia Niu and Dr. Endong Tong. -->
+
+<!--!My main research interest is Autonomous Driving (AD) Security with a focus on the security of AI components, e.g., localization, control and perception. More specifically, my research aims at discovering vulnerabilities that can be practically demonstrated in the real world as well as defending against such AI component-level vulnerabilities from the AD system perspective. -->
 
 
 
