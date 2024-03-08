@@ -70,13 +70,22 @@ I am always looking for related colaboration. If you are interested to chat with
 
 # 🎖 Honors and Awards
 
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.10:* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09:* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+
 
 # 📖 Educations
-- *2022.09 - Now*, Ph.D., School of Computer and Information Technology,, Beijing Jiaotong University
-- *2020.09 - 2022.06*, M.S., School of Computer and Information Technology , Beijing Jiaotong University
-- *2013.09 - 2017.06*, B.S., School of Information Science, Qingdao Agricultural University
+- *2022.09 - Now:, Ph.D., School of Computer and Information Technology,, Beijing Jiaotong University
+- *2020.09 - 2022.06:* M.S., School of Computer and Information Technology , Beijing Jiaotong University
+- *2013.09 - 2017.06:* B.S., School of Information Science, Qingdao Agricultural University
+
+# ⚙️ Projects
+
+- *2023 - Now:* Natural Science Horizontal Project: Semi-Physical Simulation of Autonomous Driving Based on Digital Twins.
+- *2020 - Now:* National Natural Science Foundation "General Program" Project: Multi-Agent Collaborative Defense Research against Data Poisoning Attacks in Intelligent Traffic Signal Systems.
+- *2020-2023:* National Key Research and Development Program Topic: Theory of Trustworthy Construction and Collaborative Decision-Making in Multi-Agent Systems.
+- *2020-2023:* National Key Research and Development Program Project: Trustworthy Mechanisms and Key Technologies for Urban Intelligent Systems.
 
 
 
