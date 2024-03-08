@@ -73,7 +73,7 @@ I am always looking for related colaboration. If you are interested to chat with
 - *2023.12:* Our class won the "Beijing Advanced Class Award". 🎉🎉🎉
 - *2023.12:* Our class won the "Beijing Jiaotong University Advanced Class of Graduate Students Award". 🎉🎉🎉
 - *2023.12:* I received the "Enterprise Scholarship" from Beijing Jiaotong University. 🎉
-- *2023.12:* I received the "Outstanding Scholarship in Social Work" from Beijing Jiaotong University. 🎉
+- *2023.12:* I received the "Excellent Scholarship in Social Work" from Beijing Jiaotong University. 🎉
 - *2023.12:* I have been awarded the honorary title of "Excellent Graduate Student Cadre" by Beijing Jiaotong University. 🎉
 - *2022.12*: I have been awarded the honorary title of "Excellent Part-time Counselor" by Beijing Jiaotong University for the 2022-2023 academic year. 🎉
 - 2022.08: Our team won the Global Runner-up🥈 in the DEFCON30 Autonomous Driving CTF Challenge. Checkout the news from some of the winning teams: [[Our Team@BJTU](https://scit.bjtu.edu.cn/cms/item/5040.html)], [[Whitezard@FUDAN](https://secsys.fudan.edu.cn/ff/46/c26973a458566/page.htm)]. Congratulations! 🎉🎉🎉 
