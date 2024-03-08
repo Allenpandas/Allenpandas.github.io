@@ -76,10 +76,10 @@ I am always looking for related colaboration. If you are interested to chat with
 - *2023.12:* I received the "Outstanding Scholarship in Social Work" from Beijing Jiaotong University. 🎉
 - *2023.12:* I have been awarded the honorary title of "Outstanding Graduate Student Cadre" by Beijing Jiaotong University. 🎉
 - *2022.12*: I have been awarded the honorary title of "Outstanding Part-time Counselor" by Beijing Jiaotong University for the 2022-2023 academic year. 🎉
-- 2022.08: Our team won the Global Runner-up in the DEFCON30 Autonomous Driving CTF Challenge. 🎉🎉🎉 [[news](https://scit.bjtu.edu.cn/cms/item/5040.html)]
-- *2022.02:* I received a letter of appreciation from the National Major Network Security Test and Assessment Activity with my team members. 🎉 [[news](https://scit.bjtu.edu.cn/cms/item/4891.html)]
-- *2022.01:* Our team won the first price in the [2022 Beijing Winter Olympics](https://2022.cctv.com/) Vulnerability Discovery Competition. 🎉🎉🎉 [[news](https://scit.bjtu.edu.cn/cms/item/4906.html)]
-- 2021.08: Our team won the Global Runner-up in the DEFCON29 Autonomous Driving CTF Challenge. 🎉🎉🎉 [[new](https://scit.bjtu.edu.cn/cms/item/4790.html)]
+- 2022.08: Our team won the Global Runner-up🥈 in the **DEFCON30 Autonomous Driving CTF Challenge**. 🎉🎉🎉 [[news](https://scit.bjtu.edu.cn/cms/item/5040.html)]
+- *2022.02:* I received a letter of appreciation from the **National Major Network Security Test and Assessment Activity** with my team members. 🎉 [[news](https://scit.bjtu.edu.cn/cms/item/4891.html)]
+- *2022.01:* Our team won the first price in the 2022 Beijing Winter Olympics Vulnerability Discovery Competition. 🎉🎉🎉 [[news](https://scit.bjtu.edu.cn/cms/item/4906.html)]
+- 2021.08: Our team won the Global Runner-up🥈 in the **DEFCON29 Autonomous Driving CTF Challenge**. 🎉🎉🎉 Checkout the news from some of the winning teams: [[Our Team](http://scit.bjtu.edu.cn/mobile/item/4790.html)], [[Cacti@UB](https://engineering.buffalo.edu/computer-science-engineering/news-and-events/news.host.html/content/shared/engineering/home/articles/news-articles/2021/team-cacti-places-5th-at-baidu-autodriving-capture-the-flag-comp.detail.html)], [[Redbud@THU](https://netsec.ccert.edu.cn/eng/hacking/2021-08-06-autodrive-defcon)]. Congratulations!
 
 # 📖 Educations
 - *2022.09 - Now:* Ph.D., School of Computer and Information Technology,, Beijing Jiaotong University
