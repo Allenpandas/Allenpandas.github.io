@@ -72,7 +72,7 @@ I am always looking for related colaboration. If you are interested to chat with
 
 - *2023.12:* I led our class to win the "Beijing Advanced Class Award". 🎉🎉🎉
 - *2023.12:* I led our class to win the "Beijing Jiaotong University Advanced Class of Graduate Students Award". 🎉🎉🎉
-- *2023.12:* I received the Enterprise scholarship from Beijing Jiaotong University. 🎉
+- *2023.12:* I received the "Enterprise Scholarship" from Beijing Jiaotong University. 🎉
 - *2023.12:* I received the "Outstanding Scholarship in Social Work" from Beijing Jiaotong University. 🎉
 - *2023.12:* I have been awarded the honorary title of "Outstanding Graduate Student Cadre" by Beijing Jiaotong University. 🎉
 - *2022.12*: I habe been awarded the honorary title of "Outstanding Part-time Counselor" by Beijing Jiaotong University for the 2022-2023 academic year. 🎉
