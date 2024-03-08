@@ -21,7 +21,9 @@ Hi! I am Yalun Wu (吴亚伦 in Chinese). I am a Ph.D. student  at [Beijing Jiao
 
 My main research interest is Autonomous Driving (AD) Security with a focus on the security of AI components, e.g., localization, control and perception. More specifically, my research aims at discovering vulnerabilities that can be practically demonstrated in the real world as well as defending against such AI component-level vulnerabilities from the AD system perspective. 
 
-Currently, my research has centered on
+
+
+Currently, my research has centered on:
 
 * **Safety Testing**:  testing and evaluation for autonomous driving algorithms, modules, and systems.
 
@@ -31,9 +33,7 @@ Currently, my research has centered on
 
 * **Reinforcement Learning**: safety reinforcement learning (SRL), robustness reinforcement learning and offline reinforcement learning for autonomous driving systems.
 
-I am always looking for related colaboration. If you are interested to chat with me, feel free to drop me an <a href="mailto:wuyalun1@bjtu.edu.cn" target="_blank">email</a>.
-
-
+📮: I am always looking for related colaboration. If you are interested to chat with me, feel free to drop me an <a href="mailto:wuyalun1@bjtu.edu.cn" target="_blank">email</a>.
 
 
 # 🔥 News
