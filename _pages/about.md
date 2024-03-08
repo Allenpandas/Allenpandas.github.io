@@ -76,8 +76,10 @@ I am always looking for related colaboration. If you are interested to chat with
 - *2023.12:* I received the "Outstanding Scholarship in Social Work" from Beijing Jiaotong University. 🎉
 - *2023.12:* I have been awarded the honorary title of "Outstanding Graduate Student Cadre" by Beijing Jiaotong University. 🎉
 - *2022.12*: I habe been awarded the honorary title of "Outstanding Part-time Counselor" by Beijing Jiaotong University for the 2022-2023 academic year. 🎉
-- 2022.08: I won the Global Runner-up in the DEFCON30 Autonomous Driving CTF Challenge with my team members. 🎉🎉🎉 [[link](https://scit.bjtu.edu.cn/cms/item/5040.html)]
-- 2021.08: I won the Global Runner-up in the DEFCON29 Autonomous Driving CTF Challenge with my team members. 🎉🎉🎉 [[link](https://scit.bjtu.edu.cn/cms/item/4790.html)]
+- 2022.08: I won the Global Runner-up in the DEFCON30 Autonomous Driving CTF Challenge with my team members. 🎉🎉🎉 [[news](https://scit.bjtu.edu.cn/cms/item/5040.html)]
+- *2022.02:* I received a letter of appreciation from the National Major Network Security Test and Assessment Activity. 🎉 [[news](https://scit.bjtu.edu.cn/cms/item/4891.html)]
+- *2022.01:* I won the first price inthe 2022 Beijing Winter Olympics Vulnerability Discovery Competition with my team members. 🎉🎉🎉 [[news](https://scit.bjtu.edu.cn/cms/item/4906.html)]
+- 2021.08: I won the Global Runner-up in the DEFCON29 Autonomous Driving CTF Challenge with my team members. 🎉🎉🎉 [[new](https://scit.bjtu.edu.cn/cms/item/4790.html)]
 
 # 📖 Educations
 - *2022.09 - Now:* Ph.D., School of Computer and Information Technology,, Beijing Jiaotong University
