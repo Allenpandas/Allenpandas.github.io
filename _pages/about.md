@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Yalun Wu received the bachelor's degree in communication engineering from Qingdao Agricultural University in 2017 and the master's degree in software engineering from Beijing Jiaotong University in 2022. He is currently pursuing the PhD in Cybersecurity at Beijing Jiaotong University. His research interests include AI security, data security, and privacy protection.
+Hi! I am Yalun Wu (吴亚伦 in Chinese). I am a Ph.D. student in the [School of Computer and Information Techonoly](https://scit.bjtu.edu.cn/)  at [Beijing Jiaotong University](https://bjtu.edu.cn/), and affiliated with the Beijing Key Laboratory of Security and Privacy in Intelligent Transportation and [Thorough Evaluation on Threats of Artificial Inteligence (THETA Lab)](http://jxd308.cn/). I am advised by Prof. [Zhen Han](http://faculty.bjtu.edu.cn/5608/), [Wenjia Niu](http://faculty.bjtu.edu.cn/9120/) and Assoc. Prof. [Endong Tong](http://faculty.bjtu.edu.cn/9306/). Prior to my Ph.D. career, I received the B.S. degree in communication engineering from [Qingdao Agricultural University](https://www.qau.edu.cn/) in 2017, and the M.S. degree in software engineering from [Beijing Jiaotong University](https://bjtu.edu.cn/) in 2022.
 
 
 
