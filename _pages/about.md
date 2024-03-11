@@ -46,7 +46,7 @@ Currently, my research has centered on:
 
 # 🔥 News
 - *2023.11*: I led our class to win the "Beijing Advanced Class Collective Award" and "Beijing Jiaotong University Advanced Class Collective Award". 🎉🎉🎉
-- *2023.09*: I served as a reviewer for [AAAI'24](https://aaai.org/aaai-conference/).
+- <!--*2023.09*: I served as a reviewer for [AAAI'24](https://aaai.org/aaai-conference/).-->
 - *2022.12*: I was awarded the "Outstanding Part-time Counselor" at Beijing Jiaotong University for the 2022-2023 academic year. 🎉🎉🎉
 
 * *2022.06*: I obtained a Master's degree in Software Engineering from [Beijing Jiaotong University](https://bjtu.edu.cn/). 
