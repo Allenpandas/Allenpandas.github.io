@@ -19,19 +19,9 @@ redirect_from:
 
 Hi! I am Yalun Wu (吴亚伦 in Chinese). I am a Ph.D. student in the [School of Computer and Information Techonoly](https://scit.bjtu.edu.cn/)  at [Beijing Jiaotong University](https://bjtu.edu.cn/), and affiliated with the Beijing Key Laboratory of Security and Privacy in Intelligent Transportation. I am advised by Prof. [Zhen Han](http://faculty.bjtu.edu.cn/5608/), [Wenjia Niu](http://faculty.bjtu.edu.cn/9120/) and Assistant Prof. [Endong Tong](http://faculty.bjtu.edu.cn/9306/). Prior to my Ph.D. career, I received the B.S. degree in communication engineering from [Qingdao Agricultural University](https://www.qau.edu.cn/) in 2017, and the M.S. degree in software engineering from [Beijing Jiaotong University](https://bjtu.edu.cn/) in 2022.
 
-
-
-<!--Hi! I am Yalun Wu (吴亚伦 in Chinese). I am a Ph.D. student in the [School of Computer and Information Techonoly](https://scit.bjtu.edu.cn/)  at [Beijing Jiaotong University](https://bjtu.edu.cn/), and affiliated with the [Department of Information Security](http://infosec.bjtu.edu.cn/), the Beijing Key Laboratory of Security and Privacy in Intelligent Transportation and the [Laboratory of **TH**orough **E**valuation on **T**hreats of **A**rtificial Inteligence (*THETA Lab*)](http://jxd308.cn/). I am advised by Prof. [Zhen Han](http://faculty.bjtu.edu.cn/5608/), [Wenjia Niu](http://faculty.bjtu.edu.cn/9120/) and Associate Prof. [Endong Tong](http://faculty.bjtu.edu.cn/9306/). Prior to my Ph.D. career, I received the B.S. degree in communication engineering from [Qingdao Agricultural University](https://www.qau.edu.cn/) in 2017, and the M.S. degree in software engineering from [Beijing Jiaotong University](https://bjtu.edu.cn/) in 2022.-->
-
-
-
-<!--Hi! I am Yalun Wu (吴亚伦 in Chinese). I am a Ph.D. student at [Beijing Jiaotong University](https://bjtu.edu.cn/), advised by Prof. Zhen Han, Wenjia Niu and Dr. Endong Tong. -->
-
-<!--!My main research interest is Autonomous Driving (AD) Security with a focus on the security of AI components, e.g., localization, control and perception. More specifically, my research aims at discovering vulnerabilities that can be practically demonstrated in the real world as well as defending against such AI component-level vulnerabilities from the AD system perspective. -->
-
-
-
 Currently, my research has centered on:
+
+- **AI Security:** backdoor attacks and defenses, adversarial attacks and defenses.
 
 * **Safety Testing**:  testing and evaluation for autonomous driving algorithms, modules, and systems.
 
@@ -45,11 +35,17 @@ Currently, my research has centered on:
 
 
 # 🔥 News
-- *2023.11*: I led our class to win the "Beijing Advanced Class Collective Award" and "Beijing Jiaotong University Advanced Class Collective Award". 🎉🎉🎉
-- <!--*2023.09*: I served as a reviewer for [AAAI'24](https://aaai.org/aaai-conference/).-->
-- *2022.12*: I was awarded the "Outstanding Part-time Counselor" at Beijing Jiaotong University for the 2022-2023 academic year. 🎉🎉🎉
-
-* *2022.06*: I obtained a Master's degree in Software Engineering from [Beijing Jiaotong University](https://bjtu.edu.cn/). 
+- *2023.12:* Our class won the "Beijing Advanced Class Award". 🎉🎉🎉
+- *2023.12:* Our class won the "Beijing Jiaotong University Advanced Class of Graduate Students Award". 🎉🎉🎉
+- *2023.12:* I received the "Enterprise Scholarship" from Beijing Jiaotong University. 🎉
+- *2023.12:* I received the "Excellent Scholarship in Social Work" from Beijing Jiaotong University. 🎉
+- *2023.12:* I have been awarded the honorary title of "Excellent Graduate Student Cadre" by Beijing Jiaotong University. 🎉
+- *2022.12*: I have been awarded the honorary title of "Excellent Part-time Counselor" by Beijing Jiaotong University for the 2022-2023 academic year. 🎉
+- 2022.08: Our team won the Global Runner-up🥈 in the DEFCON30 Autonomous Driving CTF Challenge. Checkout the news from some of the winning teams: [[Our Team@BJTU](https://scit.bjtu.edu.cn/cms/item/5040.html)], [[Whitezard@FUDAN](https://secsys.fudan.edu.cn/ff/46/c26973a458566/page.htm)]. Congratulations! 🎉🎉🎉 
+- *2022.06*: I obtained a Master's degree in Software Engineering from [Beijing Jiaotong University](https://bjtu.edu.cn/). 
+- *2022.02:* I received a letter of appreciation from the National Major Network Security Test and Assessment Activity with my team members. 🎉 [[link](https://scit.bjtu.edu.cn/cms/item/4891.html)]
+- *2022.01:* Our team won the first price🏅 in the 2022 Beijing Winter Olympics Vulnerability Discovery Competition. 🎉🎉🎉 [[link](https://scit.bjtu.edu.cn/cms/item/4906.html)]
+- 2021.08: Our team won the Global Runner-up🥈 in the DEFCON29 Autonomous Driving CTF Challenge. Checkout the news from some of the winning teams: [[Our Team@BJTU](http://scit.bjtu.edu.cn/mobile/item/4790.html)], [[Cacti@UB](https://engineering.buffalo.edu/computer-science-engineering/news-and-events/news.host.html/content/shared/engineering/home/articles/news-articles/2021/team-cacti-places-5th-at-baidu-autodriving-capture-the-flag-comp.detail.html)], [[Redbud@THU](https://netsec.ccert.edu.cn/eng/hacking/2021-08-06-autodrive-defcon)]. Congratulations! 🎉🎉🎉 
 
 # 📝 Publications
 
@@ -72,22 +68,22 @@ Currently, my research has centered on:
 
 - **Yalun Wu**, Xiaoshu Cui, Yuanwan Chen, Qiong Li, Yanfeng Gu, Yingqi Cai, Zhen Han, Jiqiang Liu, Endong Tong, Wenjia Niu. A text-driven data augmentation method. Chinese patent, 2024.
 - Pengna Liu, Ziyan Qiao, **Yalun Wu**, Yuanwan Chen, Xiaoshu Cui, Yanfeng Gu, Jingqi Jia, Qiong Li, Endong Tong, Wenjia Niu. A rapid region reuse method for multi-point asynchronous attacks. Chinese patent, 2024.
-- Ziyan Qiao, Yuanwan Chen, Pengna Liu, Yanfeng Gu, Xiaoshu Cui, Yalun Wu, Qiong Li, Endong Tong, Wenjia Niu. A multi-agent cooperative reinforcement learning method based on bidirectional model transfer. Chinese patent, 2024.
+- Ziyan Qiao, Yuanwan Chen, Pengna Liu, Yanfeng Gu, Xiaoshu Cui, **Yalun Wu**, Qiong Li, Endong Tong, Wenjia Niu. A multi-agent cooperative reinforcement learning method based on bidirectional model transfer. Chinese patent, 2024.
 - Dianjing Cheng, Yunzhe Tian, Xiyi Lu, Kang Chen, Dongyue Xu, **Yalun Wu**, Xingyu Wu, Yike Li, Qiong Li, Endong Tong, Wenjia Niu, Jiqiang Liu. A method and apparatus for constructing a multi-task classifier combining pre-training and supervised fine-tuning. Chinese patent, 2024.
 - Kang Chen, Yunzhe Tian, Dongyue Xu, **Yalun Wu**, Xingyu Wu, Yike Li, Endong Tong, Wenjia Niu. A method for identifying modulation styles and technical systems of wireless signals. Chinese patent, 2023.
 
 # 🎖 Honors and Awards
 
-- *2023.12:* Our class won the "Beijing Advanced Class Award". 🎉🎉🎉
-- *2023.12:* Our class won the "Beijing Jiaotong University Advanced Class of Graduate Students Award". 🎉🎉🎉
-- *2023.12:* I received the "Enterprise Scholarship" from Beijing Jiaotong University. 🎉
-- *2023.12:* I received the "Excellent Scholarship in Social Work" from Beijing Jiaotong University. 🎉
-- *2023.12:* I have been awarded the honorary title of "Excellent Graduate Student Cadre" by Beijing Jiaotong University. 🎉
-- *2022.12*: I have been awarded the honorary title of "Excellent Part-time Counselor" by Beijing Jiaotong University for the 2022-2023 academic year. 🎉
-- 2022.08: Our team won the Global Runner-up🥈 in the DEFCON30 Autonomous Driving CTF Challenge. Checkout the news from some of the winning teams: [[Our Team@BJTU](https://scit.bjtu.edu.cn/cms/item/5040.html)], [[Whitezard@FUDAN](https://secsys.fudan.edu.cn/ff/46/c26973a458566/page.htm)]. Congratulations! 🎉🎉🎉 
-- *2022.02:* I received a letter of appreciation from the National Major Network Security Test and Assessment Activity with my team members. 🎉 [[link](https://scit.bjtu.edu.cn/cms/item/4891.html)]
-- *2022.01:* Our team won the first price🏅 in the 2022 Beijing Winter Olympics Vulnerability Discovery Competition. 🎉🎉🎉 [[link](https://scit.bjtu.edu.cn/cms/item/4906.html)]
-- 2021.08: Our team won the Global Runner-up🥈 in the DEFCON29 Autonomous Driving CTF Challenge. Checkout the news from some of the winning teams: [[Our Team@BJTU](http://scit.bjtu.edu.cn/mobile/item/4790.html)], [[Cacti@UB](https://engineering.buffalo.edu/computer-science-engineering/news-and-events/news.host.html/content/shared/engineering/home/articles/news-articles/2021/team-cacti-places-5th-at-baidu-autodriving-capture-the-flag-comp.detail.html)], [[Redbud@THU](https://netsec.ccert.edu.cn/eng/hacking/2021-08-06-autodrive-defcon)]. Congratulations! 🎉🎉🎉 
+- *2023.12:* The Advanced Class Award of Beijing. (Team award)
+- *2023.12:* The Advanced Class of Graduate Students Award of Beijing Jiaotong University. (Team award)
+- *2023.12:* The Enterprise Scholarship of Beijing Jiaotong University .
+- *2023.12:* The Excellent Scholarship in Social Work of Beijing Jiaotong University.
+- *2023.12:* The Excellent Graduate Student Cadre of Beijing Jiaotong University.
+- *2022.12*: The Excellent Part-time Counselor of Beijing Jiaotong University.
+- 2022.08: The Global Runner-up🥈 in the DEFCON30 Autonomous Driving CTF Challenge. (Team award)
+- *2022.02:* A letter of appreciation from the National Major Network Security Test and Assessment Activity.  (Team award)
+- *2022.01:* The first price🏅 of the 2022 Beijing Winter Olympics Vulnerability Mining Competition.
+- 2021.08: The Global Runner-up🥈 in the DEFCON29 Autonomous Driving CTF Challenge.
 
 # 📖 Educations
 - *2022.09 - Now:* Ph.D., School of Computer and Information Technology,, Beijing Jiaotong University
