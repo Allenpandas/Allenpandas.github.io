@@ -49,7 +49,7 @@ Currently, my research has centered on:
 
 # 📝 Publications
 
-1. **Yalun Wu**, Yingxiao Xiang, Endong Tong, Yuqi Ye, Zhibo Cui, Yunzhe Tian, Lejun Zhang, Jiqiang Liu, Zhen Han. Wenjia Niu. Improving the Robustness of Pedestrian Detection in Autonomous Driving with Generative Data Augmentation. IEEE Network, 2024 (early access). <font color="#E56701">**(JCR Q1/中科院二区, IF: 9.3)**</font> 
+1. **Yalun Wu**, Yingxiao Xiang, Endong Tong, Yuqi Ye, Zhibo Cui, Yunzhe Tian, Lejun Zhang, Jiqiang Liu, Zhen Han. Wenjia Niu. Improving the Robustness of Pedestrian Detection in Autonomous Driving with Generative Data Augmentation. IEEE Network, 2024 (early access). <font color="#E56701"><b>(JCR Q1/中科院二区, IF: 9.3)</b></font> 
 2. **Yalun Wu**, Yanfeng Gu, Yuanwan Chen, Xiaoshu Cui, Qiong Li, Yingxiao Xiang, Endong Tong, Jianhua Li, Zhen Han, Jiqiang Liu. Camouflage Backdoor Attack against Pedestrian Detection. Applied Sciences, 2023, 13(23):12752.  <font color="#E56701">**(JCR Q2/中科院4区)**</font> 
 3. **Yalun Wu**, Minglu Song, Yike Li, Yunzhe Tian, Endong Tong, Wenjia Niu, Bowei Jia, Haixiang Huang, Qiong Li, Jiqiang Liu. Improving Convolutional Neural Network-Based Webshell Detection Through Reinforcement Learning. International Conference on Information and Communications Security (ICICS)  2021: 368-383. <font color="#E56701">**(ICICS'2021, CCF-C, Acceptance rate: 49/202≈24.25%)**</font> 
 4. Xiaoshu Cui, **Yalun Wu**, Yanfeng Gu, Qiong Li, Endong Tong, Jiqiang Liu, Wenjia Niu. Lurking in the Shadows: Imperceptible Shadow Black-Box Attacks against Lane Detection Models. International Conference on Knowledge Science, Engineering and Management(KSEM), 2024. <font color="#E56701">**(KSEM'2024, CCF-C)**</font> 
