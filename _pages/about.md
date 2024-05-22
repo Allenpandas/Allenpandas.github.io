@@ -49,7 +49,7 @@ Currently, my research has centered on:
 
 # 📝 Publications
 
-1. **Yalun Wu**, Yingxiao Xiang, Endong Tong, Yuqi Ye, Zhibo Cui, Yunzhe Tian, Lejun Zhang, Jiqiang Liu, Zhen Han. Wenjia Niu. Improving the Robustness of Pedestrian Detection in Autonomous Driving with Generative Data Augmentation. IEEE Network, 2024 (early access). <font color="#E56701"><b>(JCR Q1/中科院二区, IF: 9.3)</b></font> 
+1. <font color="black"><b>Yalun Wu</b></font>, Yingxiao Xiang, Endong Tong, Yuqi Ye, Zhibo Cui, Yunzhe Tian, Lejun Zhang, Jiqiang Liu, Zhen Han. Wenjia Niu. Improving the Robustness of Pedestrian Detection in Autonomous Driving with Generative Data Augmentation. IEEE Network, 2024 (early access). <font color="#E56701"><b>(JCR Q1/中科院二区, IF: 9.3)</b></font> 
 2. **Yalun Wu**, Yanfeng Gu, Yuanwan Chen, Xiaoshu Cui, Qiong Li, Yingxiao Xiang, Endong Tong, Jianhua Li, Zhen Han, Jiqiang Liu. Camouflage Backdoor Attack against Pedestrian Detection. Applied Sciences, 2023, 13(23):12752. <font color="#E56701"><b>(JCR Q2/中科院四区)</b></font> 
 3. Xiaoshu Cui, **Yalun Wu**, Yanfeng Gu, Qiong Li, Endong Tong, Jiqiang Liu, Wenjia Niu. Lurking in the Shadows: Imperceptible Shadow Black-Box Attacks against Lane Detection Models. International Conference on Knowledge Science, Engineering and Management (KSEM), 2024. <font color="#E56701"><b>(KSEM'2024, CCF-C)</b></font> 
 4. Qiong Li, **Yalun Wu**, Yingqi Cai, Xiaoshu Cui, Yanfeng Gu, Yuanwan Chen, Endong Tong, Jiqiang Liu, Wenjia Niu. Caution: Pedestrian Ahead! Revealing Deceptive Threats to Pedestrian Detectors.  IEEE Consumer Electronics Magazine, in press, 2024. <font color="#E56701"><b>(JCR Q1/中科院四区)</b></font> 
