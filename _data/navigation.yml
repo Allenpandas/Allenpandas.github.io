@@ -7,13 +7,13 @@ main:
     url: "/#-News"
 
   - title: "Publications"
-    url: "/#-ublications"
+    url: "/#-Publications"
 
   - title: "Patents"
-    url: "/#-atents"
+    url: "/#-Patents"
 
   - title: "Honors and Awards"
-    url: "/#-Honors and Awards"
+    url: "/#-Honors-and-Awards"
 
   - title: "Educations"
     url: "/#-Educations"
