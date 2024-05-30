@@ -1,25 +1,25 @@
 # main links links
 main:
   - title: "About Me"
-    url: "/#about-me"
+    url: "#About-Me"
 
   - title: "News"
-    url: "/#News"
+    url: "#News"
 
   - title: "Publications"
-    url: "/#Publications"
+    url: "#Publications"
 
   - title: "Patents"
-    url: "/#Patents"
+    url: "#Patents"
 
   - title: "Honors and Awards"
-    url: "/#Honors-and-Awards"
+    url: "#Honors-and-Awards"
 
   - title: "Educations"
-    url: "/#Educations"
+    url: "#Educations"
 
   - title: "Projects"
-    url: "/#Projects"
+    url: "#Projects"
 
   - title: "中文简历(Chinese CV)"
     url: "https://wuyalun.cn/Allenpandas-CN/"
