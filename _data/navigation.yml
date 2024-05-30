@@ -4,22 +4,22 @@ main:
     url: "/#about-me"
 
   - title: "News"
-    url: "/#-News"
+    url: "/#-news"
 
   - title: "Publications"
-    url: "/#-Publications"
+    url: "/#-publications"
 
   - title: "Patents"
-    url: "/#-Patents"
+    url: "/#-patents"
 
   - title: "Honors and Awards"
-    url: "/#-Honors-and-Awards"
+    url: "/#-ponors-and-Awards"
 
   - title: "Educations"
-    url: "/#-Educations"
+    url: "/#-educations"
 
   - title: "Projects"
-    url: "/#-Projects"
+    url: "/#-projects"
 
   - title: "中文简历(Chinese CV)"
     url: "https://wuyalun.cn/Allenpandas-CN/"
