@@ -15,7 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
+<span class='anchor' id='About-Me'></span>
 
 Hi! I am Yalun Wu (吴亚伦 in Chinese). I am a Ph.D. student in the [School of Computer and Information Techonoly](https://scit.bjtu.edu.cn/)  at [Beijing Jiaotong University](https://bjtu.edu.cn/), and affiliated with the Beijing Key Laboratory of Security and Privacy in Intelligent Transportation. I am advised by Prof. [Zhen Han](http://faculty.bjtu.edu.cn/5608/), [Wenjia Niu](http://faculty.bjtu.edu.cn/9120/) and Assistant Prof. [Endong Tong](http://faculty.bjtu.edu.cn/9306/). Prior to my Ph.D. career, I received the B.S. degree in communication engineering from [Qingdao Agricultural University](https://www.qau.edu.cn/) in 2017, and the M.S. degree in software engineering from [Beijing Jiaotong University](https://bjtu.edu.cn/) in 2022.
 
@@ -34,6 +34,7 @@ Currently, my research has centered on:
 📮: I am always looking for related colaboration. If you are interested to chat with me, feel free to drop me an <a href="mailto:wuyalun1@bjtu.edu.cn" target="_blank">email</a>.
 
 
+<span class='anchor' id='News'></span>
 # 🔥 News
 - *2023.12:* Our class won the "Beijing Advanced Class Award". 🎉🎉🎉
 - *2023.12:* Our class won the "Beijing Jiaotong University Advanced Class of Graduate Students Award". 🎉🎉🎉
@@ -47,6 +48,8 @@ Currently, my research has centered on:
 - *2022.01:* Our team won the first price🏅 in the 2022 Beijing Winter Olympics Vulnerability Discovery Competition. 🎉🎉🎉 [[link](https://scit.bjtu.edu.cn/cms/item/4906.html)]
 - 2021.08: Our team won the Global Runner-up🥈 in the DEFCON29 Autonomous Driving CTF Challenge. Checkout the news from some of the winning teams: [[Our Team@BJTU](http://scit.bjtu.edu.cn/mobile/item/4790.html)], [[Cacti@UB](https://engineering.buffalo.edu/computer-science-engineering/news-and-events/news.host.html/content/shared/engineering/home/articles/news-articles/2021/team-cacti-places-5th-at-baidu-autodriving-capture-the-flag-comp.detail.html)], [[Redbud@THU](https://netsec.ccert.edu.cn/eng/hacking/2021-08-06-autodrive-defcon)]. Congratulations! 🎉🎉🎉 
 
+
+<span class='anchor' id='Publications'></span>
 # 📝 Publications
 1. **Yalun Wu**, Yingxiao Xiang, Endong Tong, Yuqi Ye, Zhibo Cui, Yunzhe Tian, Lejun Zhang, Jiqiang Liu, Zhen Han. Wenjia Niu. Improving the Robustness of Pedestrian Detection in Autonomous Driving with Generative Data Augmentation. IEEE Network, 2024 (early access). <font color="#E56701"><b>(JCR Q1/中科院二区, IF: 9.3)</b></font> 
 2. **Yalun Wu**, Yanfeng Gu, Yuanwan Chen, Xiaoshu Cui, Qiong Li, Yingxiao Xiang, Endong Tong, Jianhua Li, Zhen Han, Jiqiang Liu. Camouflage Backdoor Attack against Pedestrian Detection. Applied Sciences, 2023, 13(23):12752. <font color="#E56701"><b>(JCR Q2/中科院四区)</b></font> 
@@ -66,6 +69,8 @@ Currently, my research has centered on:
 16. Yike Li, Yunzhe Tian, Endong Tong, Wenjia Niu, Yingxiao Xiang, Tong Chen, **Yalun Wu** and Jiqiang Liu. Curricular Robust Reinforcement Learning via GAN-based Perturbation through Continuously Scheduled Task. Chinese Conference on Trusted Computing and Information Security (CTCIS), 2021.
 17. Yingxiao Xiang, Tong Chen, Yike Li, Yunzhe Tian, Wenjia Niu, Endong Tong, Jiqiang Liu, Bowei Jia, **Yalun Wu**, Xinyu Huang. Predicting Congestion Attack of Variable Spoofing Frequency for Reliable Traffic Signal System. International Conference on Security and Privacy in New Computing Environments (EAI-SPNCE), 2021.
 
+
+<span class='anchor' id='Patents'></span>
 # 🔍 Patents
 - **Yalun Wu**, Xiaoshu Cui, Yuanwan Chen, Qiong Li, Yanfeng Gu, Yingqi Cai, Zhen Han, Jiqiang Liu, Endong Tong, Wenjia Niu. A text-driven data augmentation method. Chinese patent, 2024.
 - Pengna Liu, Ziyan Qiao, **Yalun Wu**, Yuanwan Chen, Xiaoshu Cui, Yanfeng Gu, Jingqi Jia, Qiong Li, Endong Tong, Wenjia Niu. A rapid region reuse method for multi-point asynchronous attacks. Chinese patent, 2024.
@@ -73,6 +78,8 @@ Currently, my research has centered on:
 - Dianjing Cheng, Yunzhe Tian, Xiyi Lu, Kang Chen, Dongyue Xu, **Yalun Wu**, Xingyu Wu, Yike Li, Qiong Li, Endong Tong, Wenjia Niu, Jiqiang Liu. A method and apparatus for constructing a multi-task classifier combining pre-training and supervised fine-tuning. Chinese patent, 2024.
 - Kang Chen, Yunzhe Tian, Dongyue Xu, **Yalun Wu**, Xingyu Wu, Yike Li, Endong Tong, Wenjia Niu. A method for identifying modulation styles and technical systems of wireless signals. Chinese patent, 2023.
 
+
+<span class='anchor' id='Honors-and-Awards'></span>
 # 🎖 Honors and Awards
 - *2023.12:* The Advanced Class Award of Beijing. (Team award)
 - *2023.12:* The Advanced Class of Graduate Students Award of Beijing Jiaotong University. (Team award)
@@ -85,11 +92,15 @@ Currently, my research has centered on:
 - *2022.01:* The first price🏅 of the 2022 Beijing Winter Olympics Vulnerability Mining Competition.
 - 2021.08: The Global Runner-up🥈 in the DEFCON29 Autonomous Driving CTF Challenge.
 
+
+<span class='anchor' id='Educations'></span>
 # 📖 Educations
 - *2022.09 - Now:* Ph.D., School of Computer and Information Technology,, Beijing Jiaotong University
 - *2020.09 - 2022.06:* M.S., School of Computer and Information Technology , Beijing Jiaotong University
 - *2013.09 - 2017.06:* B.S., School of Information Science, Qingdao Agricultural University
 
+
+<span class='anchor' id='Projects'></span>
 # ⚙️ Projects
 - *2023 - Now:* Natural Science Horizontal Project: Semi-Physical Simulation of Autonomous Driving Based on Digital Twins.
 - *2020 - Now:* National Natural Science Foundation "General Program" Project: Multi-Agent Collaborative Defense Research against Data Poisoning Attacks in Intelligent Traffic Signal Systems.
