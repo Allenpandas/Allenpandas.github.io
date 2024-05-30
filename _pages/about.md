@@ -48,7 +48,6 @@ Currently, my research has centered on:
 - 2021.08: Our team won the Global Runner-up🥈 in the DEFCON29 Autonomous Driving CTF Challenge. Checkout the news from some of the winning teams: [[Our Team@BJTU](http://scit.bjtu.edu.cn/mobile/item/4790.html)], [[Cacti@UB](https://engineering.buffalo.edu/computer-science-engineering/news-and-events/news.host.html/content/shared/engineering/home/articles/news-articles/2021/team-cacti-places-5th-at-baidu-autodriving-capture-the-flag-comp.detail.html)], [[Redbud@THU](https://netsec.ccert.edu.cn/eng/hacking/2021-08-06-autodrive-defcon)]. Congratulations! 🎉🎉🎉 
 
 # 📝 Publications
-
 1. **Yalun Wu**, Yingxiao Xiang, Endong Tong, Yuqi Ye, Zhibo Cui, Yunzhe Tian, Lejun Zhang, Jiqiang Liu, Zhen Han. Wenjia Niu. Improving the Robustness of Pedestrian Detection in Autonomous Driving with Generative Data Augmentation. IEEE Network, 2024 (early access). <font color="#E56701"><b>(JCR Q1/中科院二区, IF: 9.3)</b></font> 
 2. **Yalun Wu**, Yanfeng Gu, Yuanwan Chen, Xiaoshu Cui, Qiong Li, Yingxiao Xiang, Endong Tong, Jianhua Li, Zhen Han, Jiqiang Liu. Camouflage Backdoor Attack against Pedestrian Detection. Applied Sciences, 2023, 13(23):12752. <font color="#E56701"><b>(JCR Q2/中科院四区)</b></font> 
 3. Xiaoshu Cui, **Yalun Wu**, Yanfeng Gu, Qiong Li, Endong Tong, Jiqiang Liu, Wenjia Niu. Lurking in the Shadows: Imperceptible Shadow Black-Box Attacks against Lane Detection Models. International Conference on Knowledge Science, Engineering and Management (KSEM), 2024. <font color="#E56701"><b>(KSEM'2024, CCF-C)</b></font> 
@@ -68,7 +67,6 @@ Currently, my research has centered on:
 17. Yingxiao Xiang, Tong Chen, Yike Li, Yunzhe Tian, Wenjia Niu, Endong Tong, Jiqiang Liu, Bowei Jia, **Yalun Wu**, Xinyu Huang. Predicting Congestion Attack of Variable Spoofing Frequency for Reliable Traffic Signal System. International Conference on Security and Privacy in New Computing Environments (EAI-SPNCE), 2021.
 
 # 🔍 Patents
-
 - **Yalun Wu**, Xiaoshu Cui, Yuanwan Chen, Qiong Li, Yanfeng Gu, Yingqi Cai, Zhen Han, Jiqiang Liu, Endong Tong, Wenjia Niu. A text-driven data augmentation method. Chinese patent, 2024.
 - Pengna Liu, Ziyan Qiao, **Yalun Wu**, Yuanwan Chen, Xiaoshu Cui, Yanfeng Gu, Jingqi Jia, Qiong Li, Endong Tong, Wenjia Niu. A rapid region reuse method for multi-point asynchronous attacks. Chinese patent, 2024.
 - Ziyan Qiao, Yuanwan Chen, Pengna Liu, Yanfeng Gu, Xiaoshu Cui, **Yalun Wu**, Qiong Li, Endong Tong, Wenjia Niu. A multi-agent cooperative reinforcement learning method based on bidirectional model transfer. Chinese patent, 2024.
@@ -76,7 +74,6 @@ Currently, my research has centered on:
 - Kang Chen, Yunzhe Tian, Dongyue Xu, **Yalun Wu**, Xingyu Wu, Yike Li, Endong Tong, Wenjia Niu. A method for identifying modulation styles and technical systems of wireless signals. Chinese patent, 2023.
 
 # 🎖 Honors and Awards
-
 - *2023.12:* The Advanced Class Award of Beijing. (Team award)
 - *2023.12:* The Advanced Class of Graduate Students Award of Beijing Jiaotong University. (Team award)
 - *2023.12:* The Enterprise Scholarship of Beijing Jiaotong University .
@@ -94,21 +91,7 @@ Currently, my research has centered on:
 - *2013.09 - 2017.06:* B.S., School of Information Science, Qingdao Agricultural University
 
 # ⚙️ Projects
-
 - *2023 - Now:* Natural Science Horizontal Project: Semi-Physical Simulation of Autonomous Driving Based on Digital Twins.
 - *2020 - Now:* National Natural Science Foundation "General Program" Project: Multi-Agent Collaborative Defense Research against Data Poisoning Attacks in Intelligent Traffic Signal Systems.
 - *2020-2023:* National Key Research and Development Program Topic: Theory of Trustworthy Construction and Collaborative Decision-Making in Multi-Agent Systems.
 - *2020-2023:* National Key Research and Development Program Project: Trustworthy Mechanisms and Key Technologies for Urban Intelligent Systems.
-
-
-
-<!--
-
-# 💬 Invited Talks
-
-- *2021.11*, 
-
-# 💻 Internships
-
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
--->
