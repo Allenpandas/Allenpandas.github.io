@@ -21,8 +21,8 @@ main:
   - title: "Projects"
     url: "#Projects"
 
-  # - title: "Chinese CV (中文简历)"
-    # url: "https://wuyalun.cn/Allenpandas-CN/"
+  - title: "Chinese CV (中文简历)"
+    url: "https://wuyalun.cn/Allenpandas-CN/"
 
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"
