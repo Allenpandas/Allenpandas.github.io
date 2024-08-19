@@ -9,8 +9,8 @@ main:
   - title: "Publications"
     url: "#Publications"
 
-  - title: "Patents"
-    url: "#Patents"
+  # - title: "Patents"
+    # url: "#Patents"
 
   - title: "Honors and Awards"
     url: "#Honors-and-Awards"
