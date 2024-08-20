@@ -16,7 +16,7 @@
 
 ### Preprints:
 
-1. **<u>Yalun Wu</u>**,  Yingxiao Xiang, Thar Baker, Endong Tong, Ye Zhu, Xiaoshu Cui, Zhenguo Zhang, Zhen Han,  Jiqiang Liu, Wenjia Niu\*. "**Collaborative Attack Sequence Generation Model Based on Multi-Agent Reinforcement Learning for Intelligent Traffic Signal System**". International Journal of Intelligent Systems, in press, 2024.
+1. **<u>Yalun Wu</u>**†,  Yingxiao Xiang†, Thar Baker, Endong Tong, Ye Zhu, Xiaoshu Cui, Zhenguo Zhang, Zhen Han,  Jiqiang Liu, Wenjia Niu\*. "**Collaborative Attack Sequence Generation Model Based on Multi-Agent Reinforcement Learning for Intelligent Traffic Signal System**". International Journal of Intelligent Systems, in press, 2024.
 3. Ziyan Qiao, Yingxiao Xiang, t.shamsa, Gang Li, **<u>Yalun Wu</u>**, Endong Tong, Shuanghe Peng, Ye Zhu, Dongwei Xu, Wenjia Niu\*. "**Reinforcement Learning-based Security Enhancement for Controlled Optimization of Phases in Intelligent Traffic Signal System**". IEEE Transactions on Industrial Cyber-Physical Systems, in press, 2024.
 5. Yike Li, Jiayin Song, Yunzhe Tian, Endong Tong, Yuling Liu, Guozhu Meng, **<u>Yalun Wu</u>**, jianhua Li, Wenjia Niu, jiqiang Liu\*. "**Towards Preventing Imitation Learning Attack via Policy Confusion Defense**". IEEE Transactions on Dependable and Secure Computing, in press, 2023.
 
