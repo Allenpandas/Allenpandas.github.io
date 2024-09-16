@@ -2,9 +2,10 @@
 
 # 🔥 News
 
-- <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2024/09</span> **[Paper accepted]** One paper got accepted for ADMA'24. Congratulations to all collaborators!
-- <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2024/05</span> **[Paper accepted]** One paper got accepted for KSEM'24. Congratulations to all collaborators!
-- <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2024/02</span> **[Paper accepted]** One paper got accepted for IEEE Network. Congratulations to all collaborators!
+- <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2024/09</span> **[Paper accepted]** One paper got accepted for *JIS* (JCR Q1/中科院二区). Congratulations to all collaborators!
+- <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2024/09</span> **[Paper accepted]** One paper got accepted for *ADMA'24* (CCF C). Congratulations to all collaborators!
+- <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2024/05</span> **[Paper accepted]** One paper got accepted for *KSEM'24* (CCF C). Congratulations to all collaborators!
+- <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2024/02</span> **[Paper accepted]** One paper got accepted for *IEEE Network* (JCR Q1/中科院二区). Congratulations to all collaborators!
 - <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2022/08</span> **[Competition award]** Our team won the Global Runner-up🥈 in the DEFCON30 Autonomous Driving CTF Challenge. Checkout the news from some of the winning teams: [[Our Team@BJTU](https://cs.bjtu.edu.cn/jdxw/202301310.htm)], [[Whitezard@FUDAN](https://secsys.fudan.edu.cn/ff/46/c26973a458566/page.htm)]. Congratulations! 
 - *<span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2022/06</span>* **[Graduation]** I obtained a Master's degree in Software Engineering from [Beijing Jiaotong University](https://bjtu.edu.cn/).
 - *<span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2022/03</span>* **[Competition award]** Our team won the first price🏅 in the 2022 Beijing Winter Olympics Vulnerability Discovery Competition. [[link](https://cs.bjtu.edu.cn/jdxw/202301276.htm)]
