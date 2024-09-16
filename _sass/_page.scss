@@ -31,7 +31,8 @@
     .page__meta,
     .page__share {
       // @include full();
-      width: 80%; /* 设置宽度为80% */
+      width: 90%; /* 设置宽度为80% */
+      text-align: justify;
       // margin-left: auto; /* 自动边距 */
       // margin-right: auto; /* 自动边距 */
     }
