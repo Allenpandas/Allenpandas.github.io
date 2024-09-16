@@ -25,11 +25,15 @@
 
   .page__inner-wrap {
     @include full();
+    
 
     .page__content,
     .page__meta,
     .page__share {
-      @include full();
+      // @include full();
+      width: 80%; /* 设置宽度为80% */
+      // margin-left: auto; /* 自动边距 */
+      // margin-right: auto; /* 自动边距 */
     }
   }
 }
