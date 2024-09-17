@@ -30,11 +30,11 @@
     .page__content,
     .page__meta,
     .page__share {
-      // @include full();
-      width: 90%; /* 设置宽度为80% */
+      @include full();
+      // width: 90%; /* 设置宽度为80% */
       text-align: justify;
-      // margin-left: auto; /* 自动边距 */
-      // margin-right: auto; /* 自动边距 */
+      margin-left: auto; /* 自动边距 */
+      margin-right: auto; /* 自动边距 */
     }
   }
 }
