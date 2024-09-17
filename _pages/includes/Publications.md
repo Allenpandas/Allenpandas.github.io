@@ -20,11 +20,3 @@
 1. <img src="https://img.shields.io/badge/Symmetry-2024-red?style=flat-square"> Yuanwan Chen, **<u>Yalun Wu</u>**, Xiaoshu Cui, Qiong Li, Jiqiang Liu, Wenjia Niu.*. "Reflective Adversarial Attacks against Pedestrian Detection Systems for Vehicles at Night." Symmetry, in press, 2024.
 2. <img src="https://img.shields.io/badge/TICPS-2024-red?style=flat-square"> Ziyan Qiao, Yingxiao Xiang, t.shamsa, Gang Li, **<u>Yalun Wu</u>**, Endong Tong, Shuanghe Peng, Ye Zhu, Dongwei Xu, Wenjia Niu\*. "Reinforcement Learning-based Security Enhancement for Controlled Optimization of Phases in Intelligent Traffic Signal System." IEEE Transactions on Industrial Cyber-Physical Systems, in press, 2024.
 3. <img src="https://img.shields.io/badge/TDSC-2023-red?style=flat-square"> Yike Li, Jiayin Song, Yunzhe Tian, Endong Tong, Yuling Liu, Guozhu Meng, **<u>Yalun Wu</u>**, jianhua Li, Wenjia Niu\*, jiqiang Liu. "Towards Preventing Imitation Learning Attack via Policy Confusion Defense." IEEE Transactions on Dependable and Secure Computing, in press, 2023. 
-
-### Patents:
-
-1. **<u>Yalun Wu</u>**, Xiaoshu Cui, Yuanwan Chen, Qiong Li, Yanfeng Gu, Yingqi Cai, Zhen Han, Jiqiang Liu, Endong Tong, Wenjia Niu. A text-driven data augmentation method. Chinese patent, 2024.
-2. Pengna Liu, Ziyan Qiao, **<u>Yalun Wu</u>**, Yuanwan Chen, Xiaoshu Cui, Yanfeng Gu, Jingqi Jia, Qiong Li, Endong Tong, Wenjia Niu. A rapid region reuse method for multi-point asynchronous attacks. Chinese patent, 2024.
-3. Ziyan Qiao, Yuanwan Chen, Pengna Liu, Yanfeng Gu, Xiaoshu Cui, **<u>Yalun Wu</u>**, Qiong Li, Endong Tong, Wenjia Niu. A multi-agent cooperative reinforcement learning method based on bidirectional model transfer. Chinese patent, 2024.
-4. Dianjing Cheng, Yunzhe Tian, Xiyi Lu, Kang Chen, Dongyue Xu, **<u>Yalun Wu</u>**, Xingyu Wu, Yike Li, Qiong Li, Endong Tong, Wenjia Niu, Jiqiang Liu. A method and apparatus for constructing a multi-task classifier combining pre-training and supervised fine-tuning. Chinese patent, 2024.
-5. Kang Chen, Yunzhe Tian, Dongyue Xu, **<u>Yalun Wu</u>**, Xingyu Wu, Yike Li, Endong Tong, Wenjia Niu. A method for identifying modulation styles and technical systems of wireless signals. Chinese patent, 2023.
