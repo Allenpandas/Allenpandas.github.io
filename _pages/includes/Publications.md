@@ -2,7 +2,7 @@
 
 # 📝 Publications
 
-### Research Papers:
+### Selected Research Papers:
 
 1. <img src="https://img.shields.io/badge/JIS-2024-blue?style=flat-square"> **<u>Yalun Wu</u>**†,  Yingxiao Xiang†, Thar Baker, Endong Tong, Ye Zhu, Xiaoshu Cui, Zhenguo Zhang, Zhen Han,  Jiqiang Liu, Wenjia Niu\*. "Collaborative Attack Sequence Generation Model Based on Multi-Agent Reinforcement Learning for Intelligent Traffic Signal System." International Journal of Intelligent Systems, accepted, 2024. <b>(JCR Q1/中科院二区/CCF C)</b>
 2. <img src="https://img.shields.io/badge/ADMA-2024-blue?style=flat-square"> **<u>Yalun Wu</u>**,  Qiong Li, YingXiao Xiang, Jinkai Zheng, Xingyu Wu, Zhen Han,  Jiqiang Liu, Wenjia Niu\*. "Nightfall Deception: A Novel Backdoor Attack on Traffic Sign Recognition Models via Low-Light Data Manipulation." International Conference on Advanced Data Mining and Applications (ADMA), accepted, 2024. <b>(CCF C)</b>
@@ -13,7 +13,6 @@
 7. <img src="https://img.shields.io/badge/TGCN-2022-blue?style=flat-square"> Yike Li, Wenjia Niu, Yunzhe Tian, Tong Chen, Zhiqiang Xie, **<u>Yalun Wu</u>**, Yingxiao Xiang, Endong Tong, Thar Baker and Jiqiang Liu. "Multi-Agent Reinforcement Learning-based Signal Planning for Resisting Congestion Attack in Green Transportation." IEEE Transactions on Green Communications and Networking, 2022, 6(3):1448-1458.  <b>(IEEE汇刊/中科院二区)</b>
 8. <img src="https://img.shields.io/badge/HPCC-2021-blue?style=flat-square"> Shuang Zhao, **<u>Yalun Wu</u>**, Rui Sun, Xiaoai Qian, Dong Zi, Zhiqiang Xie, Endong Tong, Wenjia Niu, Jiqiang Liu, Zhen Han. "Blockchain-Based Decentralized Federated Learning: A Secure and Privacy-Preserving System." IEEE International Conference on High Performance Computing and Communications (HPCC) 2021: 941-948. <b>(CCF C)</b>
 9. <img src="https://img.shields.io/badge/ICICS-2021-blue?style=flat-square"> **<u>Yalun Wu</u>**, Minglu Song, Yike Li, Yunzhe Tian, Endong Tong, Wenjia Niu, Bowei Jia, Haixiang Huang, Qiong Li, Jiqiang Liu. "Improving Convolutional Neural Network-Based Webshell Detection Through Reinforcement Learning." International Conference on Information and Communications Security (ICICS)  2021: 368-383. <b>(CCF C)</b>
-10. <img src="https://img.shields.io/badge/SCN-2021-blue?style=flat-square"> Yingxiao Xiang, Wenjia Niu, Endong Tong, Yike Li, Bowei Jia, **<u>Yalun Wu</u>**, Jiqiang Liu, Liang Chang, Gang Li. "Congestion Attack Detection in Intelligent Traffic Signal System: Combining Empirical and Analytical Methods." Security and Communication Networks, 2021, 2021: 1-17. <b>(中科院四区/CCF C)</b>
 11. <img src="https://img.shields.io/badge/SCN-2021-blue?style=flat-square"> Tong Chen, Jiqiang Liu, **<u>Yalun Wu</u>**, Yunzhe Tian, Endong Tong, Wenjia Niu, Yike Li, Yingxiao Xiang, Wei Wang. "Survey on Astroturfing Detection and Analysis from an Information Technology Perspective." Security and Communication Networks, 2021, 2021: 1-16. <b>(中科院四区/CCF C)</b> 
 
 ### Preprints:
